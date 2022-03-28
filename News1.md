@@ -5,7 +5,7 @@
 <table border="0"> 
    <tr>
     <td>
-      <h2>An invited talk “Charactering viral haplotypes using long reads”</h2>
+      <h2>An invited talk: Charactering viral haplotypes using long reads </h2>
       <p><b>April 6, 2022  Yanni Sun</b></p>
       <p>Yanni Sun will give an invited talk “Charactering viral haplotypes using long reads” at the Workshop on Combinatorial Problems of Strings and Graphs and Their Applications in Bioinformatics. This is organized by National University of Singapore and Institute for Mathematical Sciences.</p>
       <p><a href="https://ims.nus.edu.sg/events/combinatorial-problems-for-string-and-graph-and-their-applications-in-bioinformatics-part-2/">Combinatorial Problems of Strings and Graphs and Their Applications in Bioinformatics Part 2</a></p>
@@ -15,7 +15,7 @@
  
    <tr>
     <td>
-      <h2>Talk: “Understanding the language of life using AI”</h2>
+      <h2>Talk: Understanding the language of life using AI </h2>
       <p><b>Mar. 18, 2022  Yanni Sun</b></p>
       <p>Yanni Sun gave a talk titled “Understanding the language of life using AI” to middle high-school students in Hong Kong at CityU-Learning Classroom. </p>  
     </td>
