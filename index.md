@@ -12,7 +12,7 @@
        <p><a href="/publication.html">[Publication]</a> <a href="/opening.html">[Opening]</a> <a href="/research_area.html">[Research Area]</a><a href="/News1.html">[News]</a></p>
     </td>
     <td width="40%">
-      <img src="/img/yanni.jpeg" width="150%">
+      <img src="/imgs/yanni.jpeg" width="150%">
     </td>  
   </tr>
 </table>
@@ -39,10 +39,10 @@ Yanni Sun is an Associate Professor in the Department of Electrical Engineering 
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="/img/research_interest1.jpg" width="80%">
+      <img src="/imgs/research_interest1.jpg" width="80%">
     </td>
     <td width="50%">
-      <img src="/img/research_interest2.jpg" width="80%">
+      <img src="/imgs/research_interest2.jpg" width="80%">
     </td>
   </tr>
 </table>
