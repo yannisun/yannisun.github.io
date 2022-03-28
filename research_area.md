@@ -10,10 +10,10 @@ Bacteriophages (aka phages), which mainly infect bacteria, play key roles in the
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="/img/Figure_2.jpg" width="100%">
+      <img src="/imgs/Figure_2.jpg" width="100%">
     </td>
     <td width="50%">
-      <img src="/img/Figure_3.jpg" width="100%">
+      <img src="/imgs/Figure_3.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -30,10 +30,10 @@ The source code of HostG \cite{HostG} is available at: https://github.com/Kennth
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="/img/HostGf-fig3.jpg" width="100%">
+      <img src="/imgs/HostGf-fig3.jpg" width="100%">
     </td>
     <td width="50%">
-      <img src="/img/HostG-fig6.jpg" width="100%">
+      <img src="/imgs/HostG-fig6.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -48,7 +48,7 @@ The source code of VirStrain is freely available at https://github.com/liaoherui
 <table border="0">
   <tr>
     <td width="60%">
-      <img src="/fig_combine.png" width="50%">
+      <img src="/imgs/fig_combine.png" width="50%">
     </td>
   </tr>
 </table>
@@ -64,7 +64,7 @@ Our tool is implemented in Python and can be downloaded at https://github.com/Hu
 <table border="0">
   <tr>
     <td width="60%">
-      <img src="/img/model.jpg" width="50%">
+      <img src="/imgs/model.jpg" width="50%">
     </td>
   </tr>
 </table>
@@ -78,7 +78,7 @@ Short interspersed nuclear elements (SINEs) are a widespread type of small trans
 <table border="0">
   <tr>
     <td width="60%">
-      <img src="/img/SINE.png" width="50%">
+      <img src="/imgs/SINE.png" width="50%">
     </td>
   </tr>
 </table>
@@ -90,7 +90,7 @@ Short interspersed nuclear elements (SINEs) are a widespread type of small trans
 <table border="0">
   <tr>
     <td width="100%">
-      <img src="/img/research.png" width="60%">
+      <img src="/imgs/research.png" width="60%">
     </td>
   </tr>
 </table>
