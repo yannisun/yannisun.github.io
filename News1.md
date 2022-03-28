@@ -15,7 +15,7 @@
  
    <tr>
     <td>
-      <h2>A talk titled “Understanding the language of life using AI”</h2>
+      <h2>Talk: “Understanding the language of life using AI”</h2>
       <p><b>Mar. 18, 2022  Yanni Sun</b></p>
       <p>Yanni Sun gave a talk titled “Understanding the language of life using AI” to middle high-school students in Hong Kong at CityU-Learning Classroom. </p>  
     </td>
@@ -33,9 +33,9 @@
 
   <tr>
     <td>
-      <h2>Xubo and Jiayu’s work on RNA virus classification is published!</h2>
+      <h2>Xubo and Jiayu’s work on RNA virus classification is published</h2>
       <p><b>Feb. 7, 2022</b></p>
-      <p>A paper named "RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data" is published today!</p>
+      <p>"RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data" is published today!</p>
       <p><a href="https://academic.oup.com/bib/article/23/2/bbac011/6523411?login=true">RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data</a></p>                                                                             
     </td>   
   </tr>
