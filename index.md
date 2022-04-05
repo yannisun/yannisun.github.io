@@ -1,4 +1,4 @@
-### <font size=1>Understanding The Language of Life~</font>
+### <font size=1>Understanding the Language of Life </font>
 
 
 <div>
@@ -6,7 +6,7 @@
   <tr>
     <td width="60%">
       <h1>Yanni Sun</h1>
-      <p><b>Associate Professor</b></p>
+  
       <p><b>Dept. of Electrical Engineering</b></p>
       <p><b>City University of Hong Kong</b></p>
       <p><b>yannisun AT cityu DOT edu DOT hk</b></p>
