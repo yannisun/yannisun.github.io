@@ -3,6 +3,14 @@
 
 <div align="center">
 <table border="0"> 
+    <tr>
+    <td>
+      <h2> A new RA joined the group </h2>
+      <p><b>April 13, 2022  Yanni Sun</b></p>
+      <p>Welcome Liyan to join our group as a research assistant! </p>  
+   </td>    
+  </tr>
+   
    <tr>
     <td>
       <h2>An invited talk: Charactering viral haplotypes using long reads </h2>
