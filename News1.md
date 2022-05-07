@@ -2,7 +2,16 @@
 ## News
 
 <div align="center">
-<table border="0"> 
+<table border="0">
+    <tr>
+    <td>
+      <h2> Ph.D student Tang Xubo gave a talk  "Sensitive RNA Virus Read Binning Using Learning-Based Models" </h2>
+      <p><b>April 27 2022</b></p>
+      <p>Centre for Intelligent Multidimensional Data Analysis Limited</p> 
+        <p><a href="https://www.innocimda.com/Research_Oxford2022.html"></a></p>  
+    </td>   
+  </tr>
+    
     <tr>
     <td>
       <h2> A new RA joined the group </h2>
@@ -38,6 +47,9 @@
         <p><a href="https://doi.org/10.1093/bioinformatics/btac089">Reconstructing viral haplotypes using long reads</a></p>  
     </td>   
   </tr>
+    
+   
+
 
   <tr>
     <td>
