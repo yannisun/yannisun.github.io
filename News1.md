@@ -5,9 +5,9 @@
 <table border="0">
     <tr>
     <td>
-      <h2> Ph.D student Tang Xubo gave a talk  "Sensitive RNA Virus Read Binning Using Learning-Based Models" </h2>
+      <h2> Ph.D student Tang Xubo gave a talk "Sensitive RNA Virus Read Binning Using Learning-Based Models" </h2>
       <p><b>April 27 2022</b></p>
-      <p><a href="https://www.innocimda.com/Research_Oxford2022.html"></a>Centre for Intelligent Multidimensional Data Analysis Limited</p> 
+      <p><a href="https://www.innocimda.com/Research_Oxford2022.html">The talk was held at a company called Centre for Intelligent Multidimensional Data Analysis Limited</a></p> 
     </td>   
   </tr>   
     <tr>
