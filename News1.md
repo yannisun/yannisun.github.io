@@ -5,9 +5,9 @@
 <table border="0">
     <tr>
     <td>
-      <h2> Congratulations! Jiayu's work on host prediction “CHERRY: a Computational metHod for accuratE pRediction of virus–pRokarYotic interactions using a graph encoder–decoder model” is published today!</h2>
+      <h2> Congratulations! Jiayu's work on host prediction is published today in Briefings in Bioinformatics!</h2>
       <p><b>May 22, 2022</b></p>
-      <p><a href="[https://www.innocimda.com/Research_Oxford2022.html](https://doi.org/10.1093/bib/bbac182)">CHERRY: a Computational metHod for accuratE pRediction of virus–pRokarYotic interactions using a graph encoder–decoder model</a></p> 
+      <p><a href="https://doi.org/10.1093/bib/bbac182">CHERRY: a Computational metHod for accuratE pRediction of virus–pRokarYotic interactions using a graph encoder–decoder model</a></p> 
     </td>   
   </tr>   
    <tr>
