@@ -9,9 +9,10 @@
       <p><b>May 27, 2022</b></p>
       <p><a href="https://doi.org/10.1093/bib/bbac182">CHERRY: a Computational metHod for accuratE pRediction of virus–pRokarYotic interactions using a graph encoder–decoder model</a></p> 
     </td> 
-            
-    <td width="10%">
-     <img src="/imgs/yanni.jpeg" width="150%"> 
+    </tr>
+    <tr>   
+    <td width="100%">
+     <img src="/imgs/" width="150%"> 
     </td>        
     </tr>  
     <tr>
