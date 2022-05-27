@@ -16,7 +16,6 @@
      <td width="50%">
      <img src="/imgs/2D_code.jpg" width="100%"> 
     </td> 
-        
     </tr>  
     <tr>
     <td>
