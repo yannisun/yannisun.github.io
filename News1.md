@@ -10,7 +10,6 @@
       <p> We record a video about our work in the competition. If you are interested in it, please scan this 2D code. </p>
     </td> 
     </tr>
-    
     <table>
     <tr>
     <td width="50%">
@@ -21,7 +20,6 @@
     </td> 
     </tr>
     </table>
-    
     <table>
     <tr>
     <td>
@@ -31,7 +29,6 @@
     </td>   
   </tr>  
   </table>
-  
     <table>
    <tr>
     <td>
@@ -39,8 +36,7 @@
       <p><b>May 19, 2022</b></p>  
     </td>  
   </tr>
-  </table>
-    
+  </table> 
     <table>
     <tr>
     <td>
@@ -50,7 +46,6 @@
     </td>   
   </tr>
   </table>
-    
   <table>
     <tr>
     <td>
@@ -60,7 +55,6 @@
    </td>    
   </tr>
   </table>
-    
   <table>
    <tr>
     <td>
@@ -71,7 +65,6 @@
    </td>    
   </tr>
    </table>
-    
    <table>
    <tr>
     <td>
@@ -81,7 +74,6 @@
     </td>
   </tr>
   </table>
-  
   <table>
   <tr>
     <td>
@@ -91,8 +83,7 @@
         <p><a href="https://doi.org/10.1093/bioinformatics/btac089">Reconstructing viral haplotypes using long reads</a></p>  
     </td>   
   </tr>
-  </table>
-    
+  </table> 
    <table>
   <tr>
     <td>
@@ -102,19 +93,17 @@
       <p><a href="https://academic.oup.com/bib/article/23/2/bbac011/6523411?login=true">RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data</a></p>                                                                             
     </td>   
   </tr>
-  </table>
-    
+  </table> 
   <table>
  <tr>
     <td>
       <h2>Herui’s work on "strain-level" RNA virus composition analysis is published</h2>
       <p><b>Jan. 31, 2022</b></p>
       <p>"VirStrain: a strain identification tool for RNA viruses" is published!</p>
-      <p><a href="https://doi.org/10.1186/s13059-022-02609-x">VirStrain: a strain identification tool for RNA viruses</a></p>                                                                             
+      <p><a href="https://doi.org/10.1186/s13059-022-02609-x">VirStrain: a strain identification tool for RNA viruses</a></p>               
     </td>   
   </tr>
-  </table>
-    
+  </table>  
  </table>  
 </div>
 
