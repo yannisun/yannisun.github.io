@@ -3,6 +3,7 @@
 
 <div align="center">
 <table border="0">
+    <table>
     <tr>
     <td>
       <h2> Herui and Dehan attended the final round of the competition of  "The 8th Hong Kong University Student Innovation and Entrepreneurship Competition" at Science Park of Hong Kong</h2>
@@ -10,7 +11,6 @@
       <p> We record a video about our work in the competition. If you are interested in it, please scan this 2D code. </p>
     </td> 
     </tr>
-    <table>
     <tr>
     <td width="50%">
      <img src="/imgs/He_De_20220527.jpg" width="100%" height="50%"> 
@@ -19,7 +19,8 @@
      <img src="/imgs/2D_code.jpg" width="100%" height="50%">      
     </td> 
     </tr>
-        </table>
+    </table>
+    
     <table>
     <tr>
     <td>
@@ -65,8 +66,7 @@
       <h2>An invited talk: Charactering viral haplotypes using long reads </h2>
       <p><b>April 6, 2022  </b></p>
       <p>Yanni Sun will give an invited talk “Charactering viral haplotypes using long reads” at the Workshop on Combinatorial Problems of Strings and Graphs and Their Applications in Bioinformatics. This is organized by National University of Singapore and Institute for Mathematical Sciences.</p>
-      <p><a href="https://ims.nus.edu.sg/events/combinatorial-problems-for-string-and-graph-and-their-applications-in-bioinformatics-part-2/">Combinatorial Problems of Strings and Graphs and Their Applications in Bioinformatics Part 2</a></p>
-        
+      <p><a href="https://ims.nus.edu.sg/events/combinatorial-problems-for-string-and-graph-and-their-applications-in-bioinformatics-part-2/">Combinatorial Problems of Strings and Graphs and Their Applications in Bioinformatics Part 2</a></p>   
    </td>    
   </tr>
    </table>
