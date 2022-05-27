@@ -7,6 +7,7 @@
     <td>
       <h2> Herui and Dehan attended the final round of the competition of  "The 8th Hong Kong University Student Innovation and Entrepreneurship Competition" at Science Park of Hong Kong</h2>
       <p><b>May 27, 2022</b></p>
+       <p> We record a video about our work in the competition. If you are interested in it, please scan this 2D code. </p>
     </td> 
     </tr>
     <table>
@@ -16,7 +17,7 @@
     </td> 
      <td width="50%">
      <img src="/imgs/2D_code.jpg" width="100%" height="50%"> 
-         <p> We record a video about our work in the competition. If you are interested in it, please scan this 2D code. </p>
+         
     </td> 
     </tr>
         </table>
