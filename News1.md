@@ -7,13 +7,16 @@
     <td>
       <h2> Herui and Dehan attended the final round of the competition of  "The 8th Hong Kong University Student Innovation and Entrepreneurship Competition" at Science Park of Hong Kong</h2>
       <p><b>May 27, 2022</b></p>
-      <p><a href="https://doi.org/10.1093/bib/bbac182">CHERRY: a Computational metHod for accuratE pRediction of virus–pRokarYotic interactions using a graph encoder–decoder model</a></p> 
     </td> 
     </tr>
     <tr>   
-    <td width="100%">
+    <td width="50%">
      <img src="/imgs/He_De_20220527.jpg" width="100%"> 
-    </td>        
+    </td> 
+     <td width="50%">
+     <img src="/imgs/2D_code.jpg" width="100%"> 
+    </td> 
+        
     </tr>  
     <tr>
     <td>
