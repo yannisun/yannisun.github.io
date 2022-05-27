@@ -37,6 +37,7 @@
     </td>  
   </tr>
         </table>
+    
     <table>
     <tr>
     <td>
@@ -46,6 +47,7 @@
     </td>   
   </tr>
   </table>
+  
   <table>
     <tr>
     <td>
@@ -55,8 +57,8 @@
    </td>    
   </tr>
   </table>
+    
   <table>
-  </table>
    <tr>
     <td>
       <h2>An invited talk: Charactering viral haplotypes using long reads </h2>
@@ -67,6 +69,7 @@
    </td>    
   </tr>
    </table>
+    
    <table>
    <tr>
     <td>
@@ -87,6 +90,7 @@
     </td>   
   </tr>
   </table>
+    
    <table>
   <tr>
     <td>
@@ -97,8 +101,8 @@
     </td>   
   </tr>
   </table>
+    
   <table>
- 
  <tr>
     <td>
       <h2>Herui’s work on "strain-level" RNA virus composition analysis is published</h2>
@@ -108,6 +112,7 @@
     </td>   
   </tr>
   </table>
+    
  </table>  
 </div>
 
