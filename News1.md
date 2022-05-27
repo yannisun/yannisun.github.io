@@ -13,7 +13,10 @@
     <td width="50%">
      <img src="/imgs/He_De_20220527.jpg" width="100%"> 
     </td> 
+    </tr>  
+    <tr>
      <td width="50%">
+         <p> We record a video about our work in the competition. If you are interested in it, please scan this 2D code. </p>
      <img src="/imgs/2D_code.jpg" width="100%"> 
     </td> 
     </tr>  
@@ -71,10 +74,6 @@
         <p><a href="https://doi.org/10.1093/bioinformatics/btac089">Reconstructing viral haplotypes using long reads</a></p>  
     </td>   
   </tr>
-    
-   
-
-
   <tr>
     <td>
       <h2>Xubo and Jiayu’s work on RNA virus classification is published</h2>
