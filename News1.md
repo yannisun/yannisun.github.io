@@ -11,12 +11,12 @@
     </tr>
     <table>
     <tr>
- <p> We record a video about our work in the competition. If you are interested in it, please scan this 2D code. </p>
     <td width="50%">
      <img src="/imgs/He_De_20220527.jpg" width="100%" height="50%"> 
     </td> 
      <td width="50%">
      <img src="/imgs/2D_code.jpg" width="100%" height="50%"> 
+         <p> We record a video about our work in the competition. If you are interested in it, please scan this 2D code. </p>
     </td> 
     </tr>
         </table>
