@@ -12,7 +12,7 @@
     </tr>
     <tr>   
     <td width="100%">
-     <img src="/imgs/" width="150%"> 
+     <img src="/imgs/He_De_20220527.jpg" width="100%"> 
     </td>        
     </tr>  
     <tr>
