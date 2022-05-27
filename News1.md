@@ -20,26 +20,32 @@
     </td> 
     </tr>
         </table>
+    <table>
     <tr>
     <td>
       <h2> Congratulations! Jiayu's work on host prediction is published today in Briefings in Bioinformatics!</h2>
       <p><b>May 22, 2022</b></p>
       <p><a href="https://doi.org/10.1093/bib/bbac182">CHERRY: a Computational metHod for accuratE pRediction of virus–pRokarYotic interactions using a graph encoder–decoder model</a></p> 
     </td>   
-  </tr>   
+  </tr>  
+  </table>
+    <table>
    <tr>
     <td>
       <h2> Congratulations! Xubo's poster presentation receives the $2,000 for 2nd Prize in EE faculty!</h2>
       <p><b>May 19, 2022</b></p>  
     </td>  
-  </tr>   
+  </tr>
+        </table>
+    <table>
     <tr>
     <td>
       <h2> Ph.D student Tang Xubo gave a talk titled "Sensitive RNA Virus Read Binning Using Learning-Based Models" </h2>
       <p><b>April 27, 2022</b></p>
       <p><a href="https://www.innocimda.com/Research_Oxford2022.html">The talk was held at a company called Centre for Intelligent Multidimensional Data Analysis Limited</a></p> 
     </td>   
-  </tr>   
+  </tr>
+  </table>
     <tr>
     <td>
       <h2> A new RA joined the group </h2>
