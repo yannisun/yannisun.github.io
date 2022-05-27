@@ -16,8 +16,7 @@
      <img src="/imgs/He_De_20220527.jpg" width="100%" height="50%"> 
     </td> 
      <td width="50%">
-     <img src="/imgs/2D_code.jpg" width="100%" height="50%"> 
-         
+     <img src="/imgs/2D_code.jpg" width="100%" height="50%">      
     </td> 
     </tr>
         </table>
@@ -47,13 +46,17 @@
     </td>   
   </tr>
   </table>
+  <table>
     <tr>
     <td>
       <h2> A new RA joined the group </h2>
       <p><b>April 13, 2022  </b></p>
       <p>Welcome Liyan to join our group as a research assistant! </p>  
    </td>    
-  </tr> 
+  </tr>
+  </table>
+  <table>
+  </table>
    <tr>
     <td>
       <h2>An invited talk: Charactering viral haplotypes using long reads </h2>
@@ -63,7 +66,8 @@
         
    </td>    
   </tr>
- 
+   </table>
+   <table>
    <tr>
     <td>
       <h2>Talk: Understanding the language of life using AI </h2>
@@ -71,8 +75,9 @@
       <p>Yanni Sun gave a talk titled “Understanding the language of life using AI” to middle high-school students in Hong Kong at CityU-Learning Classroom. </p>  
     </td>
   </tr>
+  </table>
   
-  
+  <table>
   <tr>
     <td>
       <h2>Dehan’s work is published</h2>
@@ -81,6 +86,8 @@
         <p><a href="https://doi.org/10.1093/bioinformatics/btac089">Reconstructing viral haplotypes using long reads</a></p>  
     </td>   
   </tr>
+  </table>
+   <table>
   <tr>
     <td>
       <h2>Xubo and Jiayu’s work on RNA virus classification is published</h2>
@@ -89,7 +96,8 @@
       <p><a href="https://academic.oup.com/bib/article/23/2/bbac011/6523411?login=true">RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data</a></p>                                                                             
     </td>   
   </tr>
- 
+  </table>
+  <table>
  
  <tr>
     <td>
@@ -99,6 +107,7 @@
       <p><a href="https://doi.org/10.1186/s13059-022-02609-x">VirStrain: a strain identification tool for RNA viruses</a></p>                                                                             
     </td>   
   </tr>
+  </table>
  </table>  
 </div>
 
