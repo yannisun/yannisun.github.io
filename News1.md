@@ -3,6 +3,14 @@
 
 <div align="center">
 <table border="0">
+        <tr>
+    <td>
+      <h2> Herui and Dehan attended the final round of the competition of  "The 8th Hong Kong University Student Innovation and Entrepreneurship Competition" at Science Park of Hong Kong</h2>
+      <p><b>May 27, 2022</b></p>
+      <p><a href="https://doi.org/10.1093/bib/bbac182">CHERRY: a Computational metHod for accuratE pRediction of virus–pRokarYotic interactions using a graph encoder–decoder model</a></p> 
+    </td>   
+ 
+    </tr>  
     <tr>
     <td>
       <h2> Congratulations! Jiayu's work on host prediction is published today in Briefings in Bioinformatics!</h2>
