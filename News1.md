@@ -11,13 +11,13 @@
     </tr>
     <tr>   
     <td width="50%">
-     <img src="/imgs/He_De_20220527.jpg" width="100%"> 
+     <img src="/imgs/He_De_20220527.jpg" width="100%" height="80%"> 
     </td> 
     </tr>  
     <tr>
      <td width="50%">
          <p> We record a video about our work in the competition. If you are interested in it, please scan this 2D code. </p>
-     <img src="/imgs/2D_code.jpg" width="100%"> 
+     <img src="/imgs/2D_code.jpg" width="100%" height="80%"> 
     </td> 
     </tr>  
     <tr>
