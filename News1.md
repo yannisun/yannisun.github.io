@@ -46,7 +46,7 @@
     </td>   
   </tr>
   </table>
-  <table>
+  <table width="100%">
     <tr>
     <td>
       <h2> A new RA joined the group </h2>
