@@ -48,7 +48,7 @@
   </table>
   <table width="100%">
     <tr>
-    <td>
+    <td width="100%">
       <h2> Welcome！A new research assistant Liyan joined the group today </h2>
       <p><b>April 13, 2022  </b></p>
       <p>Welcome Liyan! </p>  
