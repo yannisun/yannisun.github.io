@@ -49,7 +49,7 @@
   <table width="100%">
     <tr>
     <td>
-      <h2> A new RA joined the group </h2>
+      <h2> A new RA Liyan joined the group </h2>
       <p><b>April 13, 2022  </b></p>
       <p>Welcome Liyan to join our group as a research assistant! </p>  
    </td>    
