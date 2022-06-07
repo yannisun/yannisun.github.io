@@ -3,6 +3,13 @@
 
 <div align="center">
 <table border="0">
+        <tr>
+    <td>
+      <h2> Congratulations! Herui and Dehan received the 2nd Prize in competition of "The 8th Hong Kong University Student Innovation and Entrepreneurship Competition </h2>
+      <p><b>June 07, 2022</b></p>
+      <p> you can vist this website (https://www.hkchallengeplus.com/news/) for more information. </p>
+    </td> 
+    </tr>
     <tr>
     <td>
       <h2> Herui and Dehan attended the final round of the competition named "The 8th Hong Kong University Student Innovation and Entrepreneurship Competition" at Science Park of Hong Kong</h2>
