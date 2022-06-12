@@ -20,10 +20,10 @@
     <table>
     <tr>
     <td width="50%">
-     <img src="/imgs/He_De_20220527.jpg" width = "200" height = "300" > 
+     <img src="/imgs/He_De_20220527.jpg" width = "500" height = "600" > 
     </td> 
      <td width="50%">
-     <img src="/imgs/2D_code.jpg" width = "200" height = "200" >      
+     <img src="/imgs/2D_code.jpg" width = "500" height = "500" >      
     </td> 
     </tr>
     </table>
