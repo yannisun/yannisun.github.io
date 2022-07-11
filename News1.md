@@ -4,6 +4,15 @@
 <div align="center">
   
 <table border="0">
+  <table>
+    <tr>
+    <td>
+      <h2> Congratulations! Jiayu's work on identifying phage is published today in Briefings in Bioinformatics!</h2>
+      <p><b>Jun 30, 2022</b></p>
+      <p><a href="https://doi.org/10.1093/bib/bbac258">Accurate identification of bacteriophages from metagenomic data using Transformer</a></p> 
+    </td>   
+  </tr>  
+  </table>
       <table>
         <tr>
     <td>
