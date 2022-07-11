@@ -3,6 +3,15 @@
 
 <div align="center">
 <table border="0">
+      <table>
+    <tr>
+    <td>
+      <h2> Congratulations! Jiayu's work on host prediction is published today in Briefings in Bioinformatics!</h2>
+      <p><b>May 22, 2022</b></p>
+      <p><a href="https://doi.org/10.1093/bib/bbac182">CHERRY: a Computational metHod for accuratE pRediction of virus–pRokarYotic interactions using a graph encoder–decoder model</a></p> 
+    </td>   
+  </tr>  
+  </table>
         <tr>
     <td>
       <h2> Congratulations! Herui and Dehan received the 2nd Prize in competition of "The 8th Hong Kong University Student Innovation and Entrepreneurship Competition" </h2>
