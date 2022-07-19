@@ -1,5 +1,17 @@
+<div>
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="/imgs/Figure_2.jpg" width="100%">
+    </td>
+    <td width="50%">
+      <img src="/imgs/Figure_3.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
 
-### Graduated Ph.D. students
+## Graduated Ph.D. students
 1. Du, Nan, Ph.D., 9/2015-12/2019, MSU (first appointment: Facebook, CA, USA)
 2. Chen, Jiao, Ph.D., 9/2013-12/2018, MSU (first appointment: Groupon, CA, USA)
 3. Techa-Angkoon, Prapaporn, Ph.D. student, 9/2010-12/2017 (first appointment, faculty of Chiang Mai University, Thailand)
