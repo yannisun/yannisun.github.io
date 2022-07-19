@@ -1,40 +1,41 @@
 ## Publication
 ### JOURNAL PAPERS
 
-- Dehan Cai and Yanni Sun, "Reconstructing viral haplotypes using long reads", Bioinformatics, btac089, 14 Feb. 2022.<a herf="https://academic.oup.com/bioinformatics/article-abstract/38/8/2127/6528317?redirectedFrom=fulltext">paper link</a>
-- Xubo Tang, Jiayu Shang, and Yanni Sun, "RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data", Briefings in Bioinformatics, accepted, 2022.
+- Dehan Cai and Yanni Sun, "Reconstructing viral haplotypes using long reads", Bioinformatics, btac089, 14 Feb. 2022. <a herf="https://academic.oup.com/bioinformatics/article-abstract/38/8/2127/6528317?redirectedFrom=fulltext">Reconstructing viral haplotypes using long reads</a>
+- Xubo Tang, Jiayu Shang, and Yanni Sun, "RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data", Briefings in Bioinformatics, accepted, 2022. <a herf="https://pubmed.ncbi.nlm.nih.gov/35136930/">RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data</a>
 
-- Herui Liao, Dehan Cai, and Yanni Sun, “VirStrain : a strain identification tool for RNA viruses.”, Genome Biology, accepted, 2022. (the link of preprint: https://www.biorxiv.org/content/10.1101/2020.12.21.423722v2.full)
+- Herui Liao, Dehan Cai, and Yanni Sun, “VirStrain : a strain identification tool for RNA viruses.”, Genome Biology, accepted, 2022. <a herf="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02609-x">VirStrain : a strain identification tool for RNA viruses</a>
 
-- Yang Li, Ning Jiang, and Yanni Sun, “AnnoSINE: a short interspersed nuclear elements annotation tool for plant genomes”, Plant Physiology, 2021.
 
-- Jiayu Shang, and Yanni Sun, “Predicting the hosts of prokaryotic viruses using GCN-based semi-supervised learning”, BMC Biology, 2021.
+- Yang Li, Ning Jiang, and Yanni Sun, “AnnoSINE: a short interspersed nuclear elements annotation tool for plant genomes”, Plant Physiology, 2021. <a herf="https://pubmed.ncbi.nlm.nih.gov/34792587/">AnnoSINE: a short interspersed nuclear elements annotation tool for plant genomes</a>
 
-- Jiayu Shang, Jingzhe Jiang, and Yanni Sun, “Bacteriophage classification for assembled contigs using graph convolutional network”, Bioinformatics (ISMB/ECCB 2021 Proceedings), 2021.
+- Jiayu Shang, and Yanni Sun, “Predicting the hosts of prokaryotic viruses using GCN-based semi-supervised learning”, BMC Biology, 2021.  <a herf="https://pubmed.ncbi.nlm.nih.gov/34819064/">Predicting the hosts of prokaryotic viruses using GCN-based semi-supervised learning</a>
 
-- Haiying Ma, Herui Liao, Walter Dellisanti, Yanni Sun, Leo Lai Chan, Liang Zhang, "Characterizing the Host Coral Proteome of Platygyra carnosa Using Suspension Trapping (S-Trap)", Journal of Proteome Research, 20(3), pp 1783–1791, 25 February 2021. 
+- Jiayu Shang, Jingzhe Jiang, and Yanni Sun, “Bacteriophage classification for assembled contigs using graph convolutional network”, Bioinformatics (ISMB/ECCB 2021 Proceedings), 2021.  <a herf="https://pubmed.ncbi.nlm.nih.gov/34252923/">Bacteriophage classification for assembled contigs using graph convolutional network</a>
 
-- Nan Du, Jiayu Shang, and Yanni Sun*, "Improving protein domain classification for third-generation sequencing reads using deep learning", BMC genomics, 22(1), 1-13, April 9, 2021. 
+- Haiying Ma, Herui Liao, Walter Dellisanti, Yanni Sun, Leo Lai Chan, Liang Zhang, "Characterizing the Host Coral Proteome of Platygyra carnosa Using Suspension Trapping (S-Trap)", Journal of Proteome Research, 20(3), pp 1783–1791, 25 February 2021.  <a herf="https://pubmed.ncbi.nlm.nih.gov/33630606/">Characterizing the Host Coral Proteome of Platygyra carnosa Using Suspension Trapping (S-Trap)</a>
 
--	Jiayu Shang and Yanni Sun*, "CHEER: HierarCHical taxonomic classification for viral mEtagEnomic data via deep leaRning", Methods, 189: 95-103, May, 2021. 
+- Nan Du, Jiayu Shang, and Yanni Sun*, "Improving protein domain classification for third-generation sequencing reads using deep learning", BMC genomics, 22(1), 1-13, April 9, 2021.  <a herf="https://pubmed.ncbi.nlm.nih.gov/33836667/">Improving protein domain classification for third-generation sequencing reads using deep learning</a>
 
-- Xubo Tang and Yanni Sun*, "Fast and accurate microRNA search using CNN", BMC Bioinformatics, 20(Suppl 33):646, 14 pages, 27 December 2019. 
+-	Jiayu Shang and Yanni Sun*, "CHEER: HierarCHical taxonomic classification for viral mEtagEnomic data via deep leaRning", Methods, 189: 95-103, May, 2021. <a herf="https://pubmed.ncbi.nlm.nih.gov/32454212/">CHEER: HierarCHical taxonomic classification for viral mEtagEnomic data via deep leaRning</a>
 
-- Jiao Chen, Yingchao Zhao, and Yanni Sun, "De novo haplotype reconstruction in viral quasispecies using paired-end read guided path finding", Bioinformatics, 2018. IF: 7.307.
+- Xubo Tang and Yanni Sun*, "Fast and accurate microRNA search using CNN", BMC Bioinformatics, 20(Suppl 33):646, 14 pages, 27 December 2019. <a herf="https://pubmed.ncbi.nlm.nih.gov/31881831/">Fast and accurate microRNA search using CNN</a>
 
-- Daewoo Pak, Nan Du, Yunsoon Kim, Yanni Sun, and Zachary F. Burton, "Rooted tRNAomes and evolution of the genetic code", Transcription, 9 (3): 137-151, 2017
+- Jiao Chen, Yingchao Zhao, and Yanni Sun, "De novo haplotype reconstruction in viral quasispecies using paired-end read guided path finding", Bioinformatics, 2018. IF: 7.307.  <a herf="https://pubmed.ncbi.nlm.nih.gov/29617936/">De novo haplotype reconstruction in viral quasispecies using paired-end read guided path finding</a>
 
-- Jiao Chen, DongXiao Zhu, and Yanni Sun, "Cap-seq reveals complicated miRNA transcriptional mechanisms in C. elegans and mouse", Quantitative Biology, 5 (4): 352-367, 2017.
+- Daewoo Pak, Nan Du, Yunsoon Kim, Yanni Sun, and Zachary F. Burton, "Rooted tRNAomes and evolution of the genetic code", Transcription, 9 (3): 137-151, 2017  <a herf="https://pubmed.ncbi.nlm.nih.gov/29372672/">Rooted tRNAomes and evolution of the genetic code</a>
+
+- Jiao Chen, DongXiao Zhu, and Yanni Sun, "Cap-seq reveals complicated miRNA transcriptional mechanisms in C. elegans and mouse", Quantitative Biology, 5 (4): 352-367, 2017. <a herf="https://link.springer.com/article/10.1007/s40484-017-0123-4">Cap-seq reveals complicated miRNA transcriptional mechanisms in C. elegans and mouse</a>
 
 - Prapaporn Techa-Angkoon, Yanni Sun, and Jikai Lei, "A sensitive short read homology search tool for paired-end read sequencing data", BMC Bioinformatics, 18 (Suppl 12): 414. 2017. 
 
 - Nan Du and Yanni Sun, "Improve homology search sensitivity of PacBio data by correcting frameshifts", Bioinformatics 2016,32 (17): i529-i537
 
-- Jikai Lei and Yanni Sun, "Assemble CRISPRs from metagenomic sequencing data", Bioinformatics, 2016, 32 (17): i520-i528
+- Jikai Lei and Yanni Sun, "Assemble CRISPRs from metagenomic sequencing data", Bioinformatics, 2016, 32 (17): i520-i528 
 
 - Laura Kirby, Yanni Sun, David Judah, Scooter Nowak, Donna Koslowsky, Analysis of the Trypanosoma brucei EATRO 164 Bloodstream Guide RNA Transcriptome, PLOS Neglected Tropical Deceases 2016
 
-- Qiong Wang, Jordan A Fish, Mariah Gilman, Yanni Sun, Titus Brown, James M Tiedje, James R Cole, "Xander: Employing a novel method for efficient gene-targeted metagenomic assembly", Microbiome, 2015
+- Qiong Wang, Jordan A Fish, Mariah Gilman, Yanni Sun, Titus Brown, James M Tiedje, James R Cole, "Xander: Employing a novel method for efficient gene-targeted metagenomic assembly", Microbiome, 2015 
 
 - Rujira Achawayantakun, Jiao Chen, Yanni Sun, and Yuan Zhang, "LncRNA-ID: Long non-coding RNA IDentification using balanced random forests", Bioinformatics, 2015
 
