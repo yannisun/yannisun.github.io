@@ -1,6 +1,12 @@
 ## Publication
 ### JOURNAL PAPERS
 
+- Shang, Jiayu, Xubo Tang, Ruocheng Guo, and Yanni Sun. "Accurate identification of bacteriophages from metagenomic data using Transformer." arXiv preprint arXiv:2201.04778 (2022). <a href="https://pubmed.ncbi.nlm.nih.gov/35769000/">Accurate identification of bacteriophages from metagenomic data using Transformer.</a>
+
+- Chen, Mu Ku, Xiaoyuan Liu, Yanni Sun, and Din Ping Tsai. "Artificial Intelligence in Meta-optics." Chemical Reviews (2022). <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemrev.2c00012">Artificial Intelligence in Meta-optics.</a>
+
+- Shang, Jiayu, and Yanni Sun. "CHERRY: a Computational metHod for accuratE pRediction of virus-pRokarYotic interactions using a graph encoder-decoder model." arXiv preprint arXiv:2201.01018 (2022). <a href="https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac182/6589865?login=false">CHERRY: a Computational metHod for accuratE pRediction of virus-pRokarYotic interactions using a graph encoder-decoder model.</a>
+
 - Dehan Cai and Yanni Sun, "Reconstructing viral haplotypes using long reads", Bioinformatics, btac089, 14 Feb. 2022. 
  <a href="https://academic.oup.com/bioinformatics/article-abstract/38/8/2127/6528317?redirectedFrom=fulltext">Reconstructing viral haplotypes using long reads</a>
 - Xubo Tang, Jiayu Shang, and Yanni Sun, "RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data", Briefings in Bioinformatics, accepted, 2022. <a href="https://pubmed.ncbi.nlm.nih.gov/35136930/">RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data</a>
