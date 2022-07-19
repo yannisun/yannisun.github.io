@@ -1,7 +1,7 @@
 ## Publication
 ### JOURNAL PAPERS
 
-- Dehan Cai and Yanni Sun, "Reconstructing viral haplotypes using long reads", Bioinformatics, btac089, 14 Feb. 2022.
+- Dehan Cai and Yanni Sun, "Reconstructing viral haplotypes using long reads", Bioinformatics, btac089, 14 Feb. 2022.<a herf="https://academic.oup.com/bioinformatics/article-abstract/38/8/2127/6528317?redirectedFrom=fulltext">paper link</a>
 - Xubo Tang, Jiayu Shang, and Yanni Sun, "RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data", Briefings in Bioinformatics, accepted, 2022.
 
 - Herui Liao, Dehan Cai, and Yanni Sun, “VirStrain : a strain identification tool for RNA viruses.”, Genome Biology, accepted, 2022. (the link of preprint: https://www.biorxiv.org/content/10.1101/2020.12.21.423722v2.full)
