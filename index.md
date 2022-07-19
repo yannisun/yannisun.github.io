@@ -7,7 +7,7 @@
       <p><b>Dept. of Electrical Engineering</b></p>
       <p><b>City University of Hong Kong</b></p>
       <p><b>yannisun AT cityu DOT edu DOT hk</b></p>
-       <p><a href="/publication.html">[Publication]</a> <a href="/opening.html">[Opening]</a> <a href="/research_area.html">[Research Area]</a><a href="/News1.html">[News]</a></p>
+       <p><a href="/publication.html">[Publication]</a> <a href="/opening.html">[Opening]</a> <a href="/research_area.html">[Research Area]</a><a href="/News1.html">[News]</a><a href="/student.html">[Students]</a></p>
     </td>
     <td width="40%">
       <img src="/imgs/yanni.jpeg" width="150%">
