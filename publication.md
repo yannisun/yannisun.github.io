@@ -3,7 +3,7 @@
 
 - Shang, Jiayu et al. “Accurate identification of bacteriophages from metagenomic data using Transformer.” Briefings in bioinformatics, bbac258. 30 Jun. 2022. <a href="https://pubmed.ncbi.nlm.nih.gov/35769000/">Accurate identification of bacteriophages from metagenomic data using Transformer.</a>
 
-- Chen, Mu Ku, Xiaoyuan Liu, Yanni Sun, and Din Ping Tsai. "Artificial Intelligence in Meta-optics." Chemical Reviews (2022). <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemrev.2c00012">Artificial Intelligence in Meta-optics.</a>
+- Mu Ku Chen, Xiaoyuan Liu, Yanni Sun, and Din Ping Tsai. "Artificial Intelligence in Meta-optics." Chemical Reviews (2022). <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemrev.2c00012">Artificial Intelligence in Meta-optics.</a>
 
 - Shang, Jiayu, and Yanni Sun. “CHERRY: a Computational metHod for accuratE pRediction of virus-pRokarYotic interactions using a graph encoder-decoder model.” Briefings in bioinformatics, bbac182. 21 May. 2022. <a href="https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac182/6589865?login=false">CHERRY: a Computational metHod for accuratE pRediction of virus-pRokarYotic interactions using a graph encoder-decoder model.</a>
 
