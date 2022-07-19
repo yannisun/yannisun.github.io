@@ -1,10 +1,13 @@
 ## Publication
 ### JOURNAL PAPERS
 
-- Dehan Cai and Yanni Sun, "Reconstructing viral haplotypes using long reads", Bioinformatics, btac089, 14 Feb. 2022. <a herf="https://academic.oup.com/bioinformatics/article-abstract/38/8/2127/6528317?redirectedFrom=fulltext">Reconstructing viral haplotypes using long reads</a>
-- Xubo Tang, Jiayu Shang, and Yanni Sun, "RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data", Briefings in Bioinformatics, accepted, 2022. <a herf="https://pubmed.ncbi.nlm.nih.gov/35136930/">RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data</a>
+- Dehan Cai and Yanni Sun, "Reconstructing viral haplotypes using long reads", Bioinformatics, btac089, 14 Feb. 2022. 
+ <p><a herf="https://academic.oup.com/bioinformatics/article-abstract/38/8/2127/6528317?redirectedFrom=fulltext">Reconstructing viral haplotypes using long reads</a> </p>
+- Xubo Tang, Jiayu Shang, and Yanni Sun, "RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data", Briefings in Bioinformatics, accepted, 2022. 
+ <p><a herf="https://pubmed.ncbi.nlm.nih.gov/35136930/">RdRp-based sensitive taxonomic classification of RNA viruses for metagenomic data</a></p>
 
-- Herui Liao, Dehan Cai, and Yanni Sun, “VirStrain : a strain identification tool for RNA viruses.”, Genome Biology, accepted, 2022. <a herf="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02609-x">VirStrain : a strain identification tool for RNA viruses</a>
+- Herui Liao, Dehan Cai, and Yanni Sun, “VirStrain : a strain identification tool for RNA viruses.”, Genome Biology, accepted, 2022. 
+ <p><a herf="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02609-x">VirStrain : a strain identification tool for RNA viruses</a></p>
 
 
 - Yang Li, Ning Jiang, and Yanni Sun, “AnnoSINE: a short interspersed nuclear elements annotation tool for plant genomes”, Plant Physiology, 2021. <a herf="https://pubmed.ncbi.nlm.nih.gov/34792587/">AnnoSINE: a short interspersed nuclear elements annotation tool for plant genomes</a>
