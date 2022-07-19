@@ -2,10 +2,7 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="/imgs/Figure_2.jpg" width="100%">
-    </td>
-    <td width="50%">
-      <img src="/imgs/Figure_3.jpg" width="100%">
+      <img src="/imgs/group_now.jpg" width="100%">
     </td>
   </tr>
 </table>
