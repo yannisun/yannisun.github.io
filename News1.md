@@ -4,6 +4,14 @@
 <div align="center">
   
 <table border="0">
+    <table>
+    <tr>
+    <td>
+      <h2> Congratulations! Jiayu, Herui,  Xubo, and Dehan received the Research Tuition Scholarship ($42,096) and the Outstanding Academic Performance Award ($1,000) for their outstanding academic performance in the 2021-2022 academic year!</h2>
+      <p><b>Sep 9, 2022</b></p>
+    </td>   
+  </tr>  
+  </table>
   <table>
     <tr>
     <td>
