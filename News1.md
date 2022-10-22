@@ -4,6 +4,18 @@
 <div align="center">
   
 <table border="0">
+     <table>
+    <tr>
+    <td>
+      <h2> Congratulations! Jiayu's work on host prediction is accepted today in Briefings in Bioinformatics!</h2>
+      <p><b>Oct. 17th, 2022</b></p>
+      <p> Bacteriophages (or phages), which infect bacteria, have two distinct lifestyles: virulent and temperate. Predicting the lifestyle of phages helps decipher their interactions with their bacterial hosts, aiding phages' applications in fields such as phage therapy. PhaTYP adopt Bidirectional Encoder Representations from Transformer (BERT) to learn the protein composition and associations from phage genomes and achieves more stable performance on short contigs.
+        arXiv version: [PhaTYP: Predicting the lifestyle for bacteriophages using BERT
+](https://arxiv.org/abs/2206.09693)</p>
+    </td>   
+  </tr>  
+  </table>
+  
     <table>
     <tr>
     <td>
