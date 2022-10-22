@@ -4,6 +4,15 @@
 <div align="center">
   
 <table border="0">
+       <table>
+    <tr>
+    <td>
+      <h2> Congratulations! Dehan and Jiayu’s work on viral haplotype reconstruction was accepted for publication by Bioinformatics. </h2>
+      <p><b>Oct. 21th, 2022</b></p>
+      <p> This work developed a tool “HaploDMF” to reconstruct viral haplotypes from TGS data. Unlike existing tools that reconstruct haplotypes by checking the identity of overlap between reads, HaploDMF utilizes a deep matrix factorization model with an adapted loss function to automatically learn latent features from aligned reads. It is able to achieve highly robust performance on data with different properties while existing tools’ performance can be affected by the overlap size between reads. The tool is available at https://github.com/dhcai21/HaploDMF.</p>
+    </td>   
+  </tr>  
+  </table>
      <table>
     <tr>
     <td>
@@ -15,7 +24,6 @@
     </td>   
   </tr>  
   </table>
-  
     <table>
     <tr>
     <td>
