@@ -157,8 +157,9 @@
     <td>
       <h2>NUS Talk!</h2>
       <p><b>Dec. 21, 2022</b></p>
-      <p><a href="/NUS_v2.pdf">[Publication]</a></p>
-      <p><a href="/NUS_v2_.pptx.zip">[Publication]</a></p>
+      <h2>Dr. Sun has been invited to visit National University of Singapore and gived a talk. We share both files to show our group's works. You can click the link to see.</h2>
+      <p><a href="/NUS_v2.pdf">The PDF format of the talk</a></p>
+      <p><a href="/NUS_v2_.pptx">The PPT format of the talk</a></p>
     </td>   
   </tr>
   </table> 
