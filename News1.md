@@ -132,7 +132,7 @@
     </td>   
   </tr>
   </table> 
-   <table>
+  <table>
   <tr>
     <td>
       <h2>Xubo and Jiayu’s work on RNA virus classification is published</h2>
@@ -151,10 +151,16 @@
       <p><a href="https://doi.org/10.1186/s13059-022-02609-x">VirStrain: a strain identification tool for RNA viruses</a></p>               
     </td>   
   </tr>
-  </table>  
+  </table> 
+  <table>
+ <tr>
+    <td>
+      <h2>NUS Talk!</h2>
+      <p><b>Dec. 21, 2022</b></p>
+      <p><a href="/NUS_v2.pdf">[Publication]</a></p>
+      <p><a href="/NUS_v2_.pptx.zip">[Publication]</a></p>
+    </td>   
+  </tr>
+  </table> 
  </table>  
 </div>
-
-
-
-
