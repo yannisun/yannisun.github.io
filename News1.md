@@ -156,6 +156,8 @@
  <tr>
     <td>
       <p><a href="/NUS_v2.pdf">The PDF format of a talk</a></p>
+    </td>  
+    <td>
       <p><a href="https://github.com/yannisun/yannisun.github.io/raw/main/NUS_v2.pptx.zip" download="NUS_v2.pptx.zip">The PPT format of a talk</a></p>
     </td>   
   </tr>
