@@ -159,7 +159,7 @@
       <p><b>Dec. 21, 2022</b></p>
       <p>Dr. Sun has been invited to visit National University of Singapore and gived a talk. We share both files to show our group's works. You can click the link to see.</p>
       <p><a href="/NUS_v2.pdf">The PDF format of the talk</a></p>
-      <p><a href="/NUS_v2_.pptx.zip" download="NUS_v2_.zip">The PPT format of the talk</a></p>
+      <p><a href="https://github.com/yannisun/yannisun.github.io#:~:text=41%20minutes%20ago-,NUS_v2.pptx.zip,-Add%20files%20via" download="NUS_v2.zip">The PPT format of the talk</a></p>
     </td>   
   </tr>
   </table> 
