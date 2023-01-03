@@ -4,6 +4,15 @@
 <div align="center">
   
 <table border="0">
+  <table>
+    <tr>
+    <td>
+      <h2> Congratulations! Yilin, Jiayu and Peng Cheng's work on phage taxonomy classification was accepted for publication by Frontiers in Microbiology. </h2>
+      <p><b>Dec. 22rd, 2022</b></p>
+      <p> This is the first review conducted under the new ICTV classification framework since several large families were removed from ICTV in August 2022. This study provides a comprehensive review of phage classification in different scenarios and a practical guidance for choosing appropriate taxonomic classification pipelines. (https://www.frontiersin.org/articles/10.3389/fmicb.2022.1032186)</p>
+    </td>   
+  </tr>  
+  </table>
        <table>
     <tr>
     <td>
