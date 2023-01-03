@@ -7,6 +7,16 @@
   <table>
     <tr>
     <td>
+      <h2> A new integrated software named PhaBOX for phage identification and analysis has been developed! </h2>
+      <p><b>Jan. 3rd, 2023</b></p>
+      <p> Bacteriophages (phages) play key roles in regulating the composition/function of the microbiome by infecting their host bacteria. Lacking integrated software for phage identification and analysis, novel phages awaiting to be discovered constitute a large portion of “viral dark matter”. In this work, we developed a web server, named PhaBOX, to accurately identify and analyze phage contigs in metagenomic data. To our best knowledge, this is the first web server for comprehensive phage contig analysis in metagenomic data. PhaBOX integrates our previously published tools: PhaMer, PhaTYP, PhaGCN, and CHERRY, for phage identification, lifestyle prediction, taxonomy classification, and host prediction, respectively. To help users conduct downstream analysis, PhaBOX also provides visualization of the essential features for making the predictions, such as the similarity-based relationships between the contigs and other phages, predicted proteins on the contigs, and protein homology. All the predictions and intermediate results are provided for users. We hope that it can help advance the field of phage study in various ecosystems.</p>
+    </td>   
+  </tr>  
+  </table>
+  
+  <table>
+    <tr>
+    <td>
       <h2> Congratulations! Yilin, Jiayu and Peng Cheng's work on phage taxonomy classification was accepted for publication by Frontiers in Microbiology. </h2>
       <p><b>Dec. 22rd, 2022</b></p>
       <p> This is the first review conducted under the new ICTV classification framework since several large families were removed from ICTV in August 2022. This study provides a comprehensive review of phage classification in different scenarios and a practical guidance for choosing appropriate taxonomic classification pipelines. (https://www.frontiersin.org/articles/10.3389/fmicb.2022.1032186)</p>
