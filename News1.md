@@ -4,6 +4,16 @@
 <div align="center">
   
 <table border="0">
+    <table>
+    <tr>
+    <td>
+      <h2> Congratulations! Runzhou and Dehan’s work on viral genome assembly and polishing was accepted for publication by Bioinformatics.</h2>
+      <p><b>Dec. 26th, 2022</b></p>
+      <p>In this work, we introduce a new tool, AccuVIR, for viral genome assembly and polishing using error-prone long reads. It can better distinguish sequencing errors from true variants based on the key observation that sequencing errors can disrupt the gene structures of viruses, which usually have high density of coding regions. Our experimental results on both simulated and real third-generation sequencing data demonstrated its superior performance on generating more accurate viral genomes than generic assembly or polish tools. The tool is available at https://github.com/rainyrubyzhou/AccuVIR. Check out the paper at https://doi.org/10.1093/bioinformatics/btac827</p>
+    </td>   
+  </tr>  
+  </table>
+  
   <table>
     <tr>
     <td>
