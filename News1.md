@@ -12,7 +12,6 @@
     </td>   
   </tr>  
   </table> 
-<table border="0">
   <table>
     <tr>
     <td>
