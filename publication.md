@@ -1,6 +1,10 @@
 ## Publication
 ### JOURNAL PAPERS
 
+- Jonathan Daniel Ip, Allen Wing-Ho Chu, Wan-Mui Chan, Rhoda Cheuk-Ying Leung, Syed Muhammad Umer Abdullah, **Yanni Sun**, Kelvin Kai-Wang To,
+Global prevalence of SARS-CoV-2 3CL protease mutations associated with nirmatrelvir or ensitrelvir resistance, eBioMedicine,
+Volume 91, 2023, 104559, ISSN 2352-3964. <a href="https://doi.org/10.1016/j.ebiom.2023.104559"> Global prevalence of SARS-CoV-2 3CL protease mutations associated with nirmatrelvir or ensitrelvir resistance </a>.
+
 - Shang, Jiayu et al. “Accurate identification of bacteriophages from metagenomic data using Transformer.” Briefings in bioinformatics, bbac258. 30 Jun. 2022. <a href="https://pubmed.ncbi.nlm.nih.gov/35769000/">Accurate identification of bacteriophages from metagenomic data using Transformer.</a>
 
 - Mu Ku Chen, Xiaoyuan Liu, Yanni Sun, and Din Ping Tsai. "Artificial Intelligence in Meta-optics." Chemical Reviews (2022). <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemrev.2c00012">Artificial Intelligence in Meta-optics.</a>
