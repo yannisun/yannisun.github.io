@@ -3,6 +3,15 @@
 
 <div align="center">
   <table border="0">
+      <table>
+    <tr>
+    <td>
+      <h2> Congratulations! The Chinese version of "VirBot: an RNA viral contig detector for metagenomic data" is published at the official wechat account “宏基因组”.</h2>
+      <p><b>April. 16, 2023</b></p>
+      <p> <a href="https://mp.weixin.qq.com/s/dVwZmpPzpm4bolS-zezr_g">VirBot: 一个针对宏基因组数据的RNA病毒contig检测工具</a> </p>
+    </td>   
+  </tr>  
+  </table> 
   <table>
     <tr>
     <td>
