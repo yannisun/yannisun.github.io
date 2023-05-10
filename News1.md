@@ -3,6 +3,14 @@
 
 <div align="center">
   <table border="0">
+    <table>
+    <tr>
+    <td>
+      <h2> Congratulations! Xubo received 2nd Prize for the presentation titled “Identify Plasmid from Metagenomic Data Using Transformer” in the EE Graduate Research Seminar Awards.</h2>
+      <p><b>May. 10, 2023</b></p>
+    </td>   
+  </tr>  
+  </table> 
       <table>
     <tr>
     <td>
