@@ -11,12 +11,21 @@
     </td>   
   </tr>  
   </table> 
+  <table border="0">
+    <table>
+    <tr>
+    <td>
+      <h2> Congratulations! Xubo received 2nd Prize for the presentation titled “Identify Plasmid from Metagenomic Data Using Transformer” in the EE Graduate Research Seminar Awards.</h2>
+      <p><b>May. 10, 2023</b></p>
+    </td>   
+  </tr>  
+  </table>
       <table>
     <tr>
     <td>
-      <h2> Congratulations! The Chinese version of "VirBot: an RNA viral contig detector for metagenomic data" is published at the official wechat account “宏基因组”.</h2>
-      <p><b>April. 16, 2023</b></p>
-      <p> <a href="https://mp.weixin.qq.com/s/dVwZmpPzpm4bolS-zezr_g">VirBot: 一个针对宏基因组数据的RNA病毒contig检测工具</a> </p>
+      <h2> Congratulations! Yongxin, Jiayu, and Xubo’s work on plasmid host prediction was accepted for publication by Bioinformatics!</h2>
+      <p><b>Apr. 19 2023</b></p>
+      <p> In this work, we construct a tool named HOTSPOT, aiming at predicting the host association of plasmids. By incorporating the state-of-the-art language model, Transformer, in each node’s taxon classifier, the top-down tree search achieves an accurate host taxonomy prediction for the input plasmid contigs. We rigorously tested HOTSPOT on multiple datasets and all experiments show that HOTSPOT outperforms other popular methods. The tool is available at <a href="https://academic.oup.com/bioinformatics/article/39/5/btad283/7136643">HOTSPOT</a> Check out the paper at <a href="https://academic.oup.com/bioinformatics/article/39/5/btad283/7136643">HOTSPOT: hierarchical host prediction for assembled plasmid contigs with transformer</a></p>     
     </td>   
   </tr>  
   </table> 
