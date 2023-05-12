@@ -25,7 +25,7 @@
     <td>
       <h2> Congratulations! The Chinese version of VirBot is published at the offical wechat account "宏基因组"</h2>
       <p><b>Apr. 16, 2023</b></p>
-      <p> You can visit <a href="https://mp.weixin.qq.com/s/dVwZmpPzpm4bolS-zezr_g"> detailed information</a>here.</p>
+      <p> You can visit <a href="https://mp.weixin.qq.com/s/dVwZmpPzpm4bolS-zezr_g"> detailed information </a>here.</p>
     </td>   
   </tr>  
   </table>
