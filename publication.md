@@ -1,11 +1,19 @@
 ## Publication
 ### JOURNAL PAPERS
 
+- Ji, Yongxin, Jiayu Shang, Xubo Tang, and Yanni Sun. "HOTSPOT: hierarchical host prediction for assembled plasmid contigs with transformer." Bioinformatics 39, no. 5 (2023): btad283. <a href="https://academic.oup.com/bioinformatics/article/39/5/btad283/7136643"> HOTSPOT: hierarchical host prediction for assembled plasmid contigs with transformer </a>
+
+- Chen, Guowei, Xubo Tang, Mang Shi, and Yanni Sun. "VirBot: an RNA viral contig detector for metagenomic data." Bioinformatics 39, no. 3 (2023): btad093. <a href="https://academic.oup.com/bioinformatics/article/39/3/btad093/7043093"> VirBot: an RNA viral contig detector for metagenomic data </a>
+
+- Yu, Runzhou, Dehan Cai, and Yanni Sun. "AccuVIR: an ACCUrate VIRal genome assembly tool for third-generation sequencing data." Bioinformatics 39, no. 1 (2023): btac827. <a href="https://academic.oup.com/bioinformatics/article/39/1/btac827/6960924"> AccuVIR: an ACCUrate VIRal genome assembly tool for third-generation sequencing data </a>
+
 - Jonathan Daniel Ip, Allen Wing-Ho Chu, Wan-Mui Chan, Rhoda Cheuk-Ying Leung, Syed Muhammad Umer Abdullah, **Yanni Sun**, Kelvin Kai-Wang To,
 "Global prevalence of SARS-CoV-2 3CL protease mutations associated with nirmatrelvir or ensitrelvir resistance", eBioMedicine,
-Volume 91, 2023, 104559, ISSN 2352-3964. <a href="https://doi.org/10.1016/j.ebiom.2023.104559"> Global prevalence of SARS-CoV-2 3CL protease mutations associated with nirmatrelvir or ensitrelvir resistance </a>.
+Volume 91, 2023, 104559, ISSN 2352-3964. <a href="https://doi.org/10.1016/j.ebiom.2023.104559"> Global prevalence of SARS-CoV-2 3CL protease mutations associated with nirmatrelvir or ensitrelvir resistance </a>
 
-- Shang, Jiayu et al. “Accurate identification of bacteriophages from metagenomic data using Transformer.” Briefings in bioinformatics, bbac258. 30 Jun. 2022. <a href="https://pubmed.ncbi.nlm.nih.gov/35769000/">Accurate identification of bacteriophages from metagenomic data using Transformer.</a>
+- Cai, Dehan, Jiayu Shang, and Yanni Sun. "HaploDMF: viral haplotype reconstruction from long reads via deep matrix factorization." Bioinformatics 38, no. 24 (2022): 5360-5367. <a href="https://academic.oup.com/bioinformatics/article/38/24/5360/6780015"> HaploDMF: viral haplotype reconstruction from long reads via deep matrix factorization  </a>
+
+- Shang, Jiayu et al. “Accurate identification of bacteriophages from metagenomic data using Transformer.” Briefings in bioinformatics, bbac258. 30 Jun. 2022. <a href="https://pubmed.ncbi.nlm.nih.gov/35769000/">Accurate identification of bacteriophages from metagenomic data using Transformer. </a>
 
 - Mu Ku Chen, Xiaoyuan Liu, Yanni Sun, and Din Ping Tsai. "Artificial Intelligence in Meta-optics." Chemical Reviews (2022). <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemrev.2c00012">Artificial Intelligence in Meta-optics.</a>
 
