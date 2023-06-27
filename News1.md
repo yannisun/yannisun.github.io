@@ -1,8 +1,16 @@
 
 ## News
-
 <div align="center">
   <table border="0">
+  <table>
+    <tr>
+    <td>
+      <h2>Congratulations! Xubo, Jiayu and Yongxin’s work on plasmid identification was accepted for publication by Nucleic Acids Research.</h2>
+      <p><b>Jun. 24, 2023</b></p>
+      <p>Plasmids are mobile genetic elements that carry crucial accessory genes. Cataloging plasmids is a fundamental step in elucidating their role in promoting horizontal gene transfer between bacteria. To identify plasmid contigs from short-read assemblies, we developed a tool called PLASMe that utilizes the Transformer. PLASMe leverages the strengths of both alignment and learning-based methods. The alignment component in PLASMe facilitates the easy identification of closely related plasmids, while order-specific Transformer models predict diverged plasmids with accuracy.</p>
+    </td>   
+  </tr>  
+  </table> 
     <table>
     <tr>
     <td>
