@@ -13,6 +13,7 @@
 "Global prevalence of SARS-CoV-2 3CL protease mutations associated with nirmatrelvir or ensitrelvir resistance", eBioMedicine,
 Volume 91, 2023, 104559, ISSN 2352-3964. <a href="https://doi.org/10.1016/j.ebiom.2023.104559"> Global prevalence of SARS-CoV-2 3CL protease mutations associated with nirmatrelvir or ensitrelvir resistance </a>
 
+#### 2022
 - Cai, Dehan, Jiayu Shang, and Yanni Sun. "HaploDMF: viral haplotype reconstruction from long reads via deep matrix factorization." Bioinformatics 38, no. 24 (2022): 5360-5367. <a href="https://academic.oup.com/bioinformatics/article/38/24/5360/6780015"> HaploDMF: viral haplotype reconstruction from long reads via deep matrix factorization  </a>
 
 - Shang, Jiayu et al. “Accurate identification of bacteriophages from metagenomic data using Transformer.” Briefings in bioinformatics, bbac258. 30 Jun. 2022. <a href="https://pubmed.ncbi.nlm.nih.gov/35769000/">Accurate identification of bacteriophages from metagenomic data using Transformer. </a>
@@ -29,7 +30,7 @@ Volume 91, 2023, 104559, ISSN 2352-3964. <a href="https://doi.org/10.1016/j.ebio
 - Herui Liao, Dehan Cai, and Yanni Sun, “VirStrain : a strain identification tool for RNA viruses.”, Genome Biology, accepted, 2022. 
  <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02609-x">VirStrain : a strain identification tool for RNA viruses</a>
 
-
+#### 2021
 - Yang Li, Ning Jiang, and Yanni Sun, “AnnoSINE: a short interspersed nuclear elements annotation tool for plant genomes”, Plant Physiology, 2021. <a href="https://pubmed.ncbi.nlm.nih.gov/34792587/">AnnoSINE: a short interspersed nuclear elements annotation tool for plant genomes</a>
 
 - Jiayu Shang, and Yanni Sun, “Predicting the hosts of prokaryotic viruses using GCN-based semi-supervised learning”, BMC Biology, 2021.  <a href="https://pubmed.ncbi.nlm.nih.gov/34819064/">Predicting the hosts of prokaryotic viruses using GCN-based semi-supervised learning</a>
@@ -42,6 +43,7 @@ Volume 91, 2023, 104559, ISSN 2352-3964. <a href="https://doi.org/10.1016/j.ebio
 
 -	Jiayu Shang and Yanni Sun*, "CHEER: HierarCHical taxonomic classification for viral mEtagEnomic data via deep leaRning", Methods, 189: 95-103, May, 2021. <a href="https://pubmed.ncbi.nlm.nih.gov/32454212/">CHEER: HierarCHical taxonomic classification for viral mEtagEnomic data via deep leaRning</a>
 
+#### Before 2021
 - Xubo Tang and Yanni Sun*, "Fast and accurate microRNA search using CNN", BMC Bioinformatics, 20(Suppl 33):646, 14 pages, 27 December 2019. <a href="https://pubmed.ncbi.nlm.nih.gov/31881831/">Fast and accurate microRNA search using CNN</a>
 
 - Jiao Chen, Yingchao Zhao, and Yanni Sun, "De novo haplotype reconstruction in viral quasispecies using paired-end read guided path finding", Bioinformatics, 2018. IF: 7.307.  <a href="https://pubmed.ncbi.nlm.nih.gov/29617936/">De novo haplotype reconstruction in viral quasispecies using paired-end read guided path finding</a>
