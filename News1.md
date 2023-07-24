@@ -5,6 +5,16 @@
   <table>
     <tr>
     <td>
+      <h2>Congratulations! Runzhou and Umer’s work for correcting (polishing) errors in protein-coding regions of RNA viruses was accepted for publication by Briefings in Bioinformatics.</h2>
+      <p><b>July 21th, 2023</b></p>
+      <p>In this work, we developed a novel pipeline, HMMPolish, for correcting (polishing) errors in protein-coding regions of known RNA viruses. By utilizing profile Hidden Markov Models of protein families/domains in known viruses, HMMPolish can correct errors that are ignored by available polishers. We extensively validated HMMPolish on 34 datasets that covered four clinically important viruses, including HIV-1, influenza-A, norovirus, and severe acute respiratory syndrome coronavirus 2. 
+These datasets contain reads with different properties, such as sequencing depth and platforms (PacBio or Nanopore). The benchmark results against popular/representative polishers show that HMMPolish competes favorably on error correction in coding regions of known RNA viruses. HMMPolish is available at <a href="https://github.com/rainyrubyzhou/HMMPolish"> HMMPolish </a>. Check out the paper at <a href="https://doi.org/10.1093/bib/bbad264"> HMMPolish: a coding region polishing tool for TGS-sequenced RNA viruses.</a>a</p>
+    </td>   
+  </tr>  
+  </table> 
+  <table>
+    <tr>
+    <td>
       <h2>Congratulations! Xubo, Jiayu and Yongxin’s work on plasmid identification was accepted for publication by Nucleic Acids Research.</h2>
       <p><b>Jun. 24, 2023</b></p>
       <p>Plasmids are mobile genetic elements that carry crucial accessory genes. Cataloging plasmids is a fundamental step in elucidating their role in promoting horizontal gene transfer between bacteria. To identify plasmid contigs from short-read assemblies, we developed a tool called PLASMe that utilizes the Transformer. PLASMe leverages the strengths of both alignment and learning-based methods. The alignment component in PLASMe facilitates the easy identification of closely related plasmids, while order-specific Transformer models predict diverged plasmids with accuracy. 
