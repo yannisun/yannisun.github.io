@@ -1,6 +1,8 @@
 ## Publication
 ### JOURNAL PAPERS
 #### 2023
+- Yu, Runzhou, Abdullah, Syed Muhammad Umer, and Yanni Sun. "HMMPolish: a coding region polishing tool for TGS-sequenced RNA viruses." Briefings in bioinformatics bbad264. 21 July, 2023. <a href="https://doi.org/10.1093/bib/bbad264">HMMPolish: a coding region polishing tool for TGS-sequenced RNA viruses.</a>
+
 - Tang, Xubo, Jiayu Shang, Yongxin Ji, and Yanni Sun. "PLASMe: a tool to identify PLASMid contigs from short-read assemblies using transformer." Nucleic Acids Research (2023): gkad578. <a href="https://doi.org/10.1093/nar/gkad578">PLASMe: a tool to identify PLASMid contigs from short-read assemblies using transformer.</a>
   
 - Ji, Yongxin, Jiayu Shang, Xubo Tang, and Yanni Sun. "HOTSPOT: hierarchical host prediction for assembled plasmid contigs with transformer." Bioinformatics 39, no. 5 (2023): btad283. <a href="https://academic.oup.com/bioinformatics/article/39/5/btad283/7136643"> HOTSPOT: hierarchical host prediction for assembled plasmid contigs with transformer </a>
