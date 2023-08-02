@@ -7,7 +7,7 @@
     <td>
     <h2> We participated in the ISMB/ECCB 2023 conference!</h2>
     <p><b>Aug 02, 2023</b></p>
-    <p>Congratulations! Dr. Sun and four talented Ph.D. students, namely Jiayu Shang, Xubo Tang, Dehan Cai, and Cheng Peng, recently participated in the prestigious ISMB/ECCB 2023 conference from 23rd to 27th July. During the conference, Jiayu Shang delivered an outstanding proceedings presentation titled "PhaVIP: Phage VIrion Protein Classification based on chaos game representation and Vision Transformer." Xubo Tang showcased his work on identifying plasmid contigs from metagenomic data using a Transformer, while Dehan Cai presented his report on "HaploDMF: viral haplotype reconstruction from long reads via deep matrix factorization." Cheng Peng exhibited the work on "PhaBOX: A web server for identifying and characterizing bacteriophage contigs in metagenomic data" through a poster presentation.
+    <p>Congratulations! Dr. Sun and four talented Ph.D. students, namely Jiayu Shang, Xubo Tang, Dehan Cai, and Cheng Peng, recently participated in the prestigious ISMB/ECCB 2023 conference from 23rd to 27th July. During the conference, Jiayu Shang delivered an outstanding proceedings presentation titled <b> PhaVIP: Phage VIrion Protein Classification based on chaos game representation and Vision Transformer.</b> Xubo Tang showcased his work on <b> identifying plasmid contigs from metagenomic data using a Transformer </b>, while Dehan Cai presented his report on <b> HaploDMF: viral haplotype reconstruction from long reads via deep matrix factorization.</b> Cheng Peng exhibited the work on <b> PhaBOX: A web server for identifying and characterizing bacteriophage contigs in metagenomic data </b> through a poster presentation.
 Their innovative research work has garnered significant attention from the scientific community. If you are interested in learning more about their work, please refer to the published papers.</p>
     <p> You can visit <a href="https://www.iscb.org/ismbeccb2023-programme/tracks/microbiome"> this website </a> for more information. </p>
     </td> 
@@ -16,7 +16,7 @@ Their innovative research work has garnered significant attention from the scien
     <table>
     <tr>
     <td width="100%">
-     <img src="/imgs/ECCB_ISMB_2023.jpg"> 
+     <img src="/imgs/ECCB_ISMB_2023.jpg" width = "400" height = "450"> 
     </td> 
     </tr>
     </table>
