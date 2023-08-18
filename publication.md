@@ -1,6 +1,8 @@
 ## Publication
 ### JOURNAL PAPERS
 #### 2023
+- Liao, H., Ji, Y. & Sun, Y. High-resolution strain-level microbiome composition analysis from short reads. Microbiome 11, 183 (2023). https://doi.org/10.1186/s40168-023-01615-w
+  
 - Yu, Runzhou, Abdullah, Syed Muhammad Umer, and Yanni Sun. "HMMPolish: a coding region polishing tool for TGS-sequenced RNA viruses." Briefings in bioinformatics bbad264. 21 July, 2023. <a href="https://doi.org/10.1093/bib/bbad264">HMMPolish: a coding region polishing tool for TGS-sequenced RNA viruses.</a>
 
 - Tang, Xubo, Jiayu Shang, Yongxin Ji, and Yanni Sun. "PLASMe: a tool to identify PLASMid contigs from short-read assemblies using transformer." Nucleic Acids Research (2023): gkad578. <a href="https://doi.org/10.1093/nar/gkad578">PLASMe: a tool to identify PLASMid contigs from short-read assemblies using transformer.</a>
