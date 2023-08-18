@@ -2,6 +2,15 @@
 ## News
 <div align="center">
 <table border="0">
+     <table>
+    <tr>
+    <td>
+      <h2>Congratulations! Herui and Yongxin’s work for identifying bacterial strains from short reads was accepted for publication by Microbiome.</h2>
+      <p><b>Aug. 17th, 2023</b></p>
+      <p>In this work, we developed a novel software, StrainScan, for identifying bacterial strains from short read. By utilizing a novel tree-based k-mers indexing structure, StrainScan can strike a balance between the strain identification accuracy and the computational complexity. We tested StrainScan extensively on a large number of simulated and real sequencing data and benchmarked StrainScan with popular strain-level analysis tools. The results show that StrainScan has higher accuracy and resolution than the state-of-the-art tools on strain-level composition analysis. It improves the F1 score by 20% in identifying multiple strains at the strain level. StrainScan is available at <a href="https://github.com/liaoherui/StrainScan"> StrainScan</a>. Check out the paper at <a href="https://doi.org/10.1186/s40168-023-01615-w"> High-resolution strain-level microbiome composition analysis from short reads.</a></p>
+    </td>   
+  </tr>  
+  </table> 
 <table>
     <tr>
     <td>
