@@ -7,9 +7,16 @@
     <td>
       <h2>Congratulations! Jiayu was the CHAMPION in the competition named “Postgraduate Student Research Paper Competition 2022 – 2023”.</h2>
        <p><b>Aug 26, 2023</b></p>
-      <p>The competition is held by IEEE (Hong Kong) Computational Intelligence Chapter. Jaiyu was the CHAMPION for his outstanding academic performance.</p>
+      <p>The competition is held by IEEE (Hong Kong) Computational Intelligence Chapter. Jaiyu was the CHAMPION for his outstanding academic performance.</p>    
     </td>   
-  </tr>  
+  </tr>
+<table>
+    <tr>
+    <td width="100%">
+     <img src="/imgs/ECCB_ISMB_2023.jpg" width = "400" height = "450"> 
+    </td> 
+    </tr>
+    </table>
   </table> 
   <table>
     <tr>
