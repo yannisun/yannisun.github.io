@@ -1,6 +1,8 @@
 ## Publication
 ### JOURNAL PAPERS
 #### 2023
+- Shang, Jiayu, Cheng Peng, Xubo Tang, and Yanni Sun. "PhaVIP: Phage VIrion Protein classification based on chaos game representation and Vision Transformer." Bioinformatics, Volume 39, June 2023, Pages i30–i39. <a href="https://doi.org/10.1093/bioinformatics/btad229">PhaVIP: Phage VIrion Protein classification based on chaos game representation and Vision Transformer.</a>
+  
 - Liao, H., Ji, Y. & Sun, Y. High-resolution strain-level microbiome composition analysis from short reads. Microbiome 11, 183 (2023). https://doi.org/10.1186/s40168-023-01615-w
   
 - Yu, Runzhou, Abdullah, Syed Muhammad Umer, and Yanni Sun. "HMMPolish: a coding region polishing tool for TGS-sequenced RNA viruses." Briefings in bioinformatics bbad264. 21 July, 2023. <a href="https://doi.org/10.1093/bib/bbad264">HMMPolish: a coding region polishing tool for TGS-sequenced RNA viruses.</a>
