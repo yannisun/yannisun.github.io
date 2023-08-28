@@ -13,7 +13,7 @@
 <table>
     <tr>
     <td width="100%">
-     <img src="/imgs/ECCB_ISMB_2023.jpg" width = "400" height = "450"> 
+     <img src="/imgs/jiayu_2023_IEEE_research_paper.jpg" width = "400" height = "450"> 
     </td> 
     </tr>
     </table>
