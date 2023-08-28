@@ -2,7 +2,16 @@
 ## News
 <div align="center">
 <table border="0">
-     <table>
+       <table>
+    <tr>
+    <td>
+      <h2>Congratulations! Jiayu was the CHAMPION in the competition named “Postgraduate Student Research Paper Competition 2022 – 2023”.</h2>
+       <p><b>Aug 26, 2023</b></p>
+      <p>The competition is held by IEEE (Hong Kong) Computational Intelligence Chapter. Jaiyu was the CHAMPION for his outstanding academic performance.</p>
+    </td>   
+  </tr>  
+  </table> 
+  <table>
     <tr>
     <td>
       <h2>Congratulations! Herui and Yongxin’s work for identifying bacterial strains from short reads was accepted for publication by Microbiome.</h2>
