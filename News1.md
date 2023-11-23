@@ -13,8 +13,7 @@ Check out the paper at <a href="https://www.sciencedirect.com/science/article/pi
     </td>   
   </tr>  
   </table> 
-       
-       <table>
+<table>
     <tr>
     <td>
       <h2>Congratulations! Jiayu was the CHAMPION in the competition named “Postgraduate Student Research Paper Competition 2022 – 2023”.</h2>
