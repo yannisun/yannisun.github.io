@@ -3,6 +3,15 @@
 <div align="center">
        
 <table border="0">
+       <table>
+    <tr>
+    <td>
+      <h2>Congratulations! Jiaojiao and Cheng's work PhaGenus was Published on the BIB.</h2>
+      <p><b>Nov. 15, 2023</b></p>
+      <p>Bacteriophages prey on and replicate within bacterial cells and have a significant role in modulating microbial communities. However, the taxonomic classification of assembled phage contigs still faces several challenges. In this work, we develop a learning-based model named PhaGenus, which conducts genus-level taxonomic classification for phage contigs. PhaGenus utilizes a powerful Transformer model to learn the association between protein clusters and support the classification of up to 508 genera. For more information refer to the paper. <a href="https://academic.oup.com/bib/article/24/6/bbad408/7420494?login=true">PhaGenus: genus-level classification of bacteriophages using a Transformer model.</a></p>
+    </td>   
+  </tr>  
+  </table>   
 <table>
     <tr>
     <td>
