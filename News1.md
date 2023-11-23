@@ -1,7 +1,19 @@
 
 ## News
 <div align="center">
+       
 <table border="0">
+<table>
+    <tr>
+    <td>
+      <h2>Congratulations! Our cooperation works with Chinese Academy of Sciences "Identifying ARG-carrying bacteriophages in a lake replenished by reclaimed water using deep learning techniques" was accepted for publication by Water Research.</h2>
+      <p><b>Jun. 24, 2023</b></p>
+      <p>As important mobile genetic elements, phages support the spread of antibiotic resistance genes (ARGs). Previous analyses of metaviromes or metagenome-assembled genomes (MAGs) failed to assess the extent of ARGs transferred by phages, particularly in the generation of antibiotic pathogens. Therefore, we have developed a bioinformatic pipeline that utilizes deep learning techniques to identify ARG-carrying phages and predict their hosts, with a special focus on pathogens. Using this method, we discovered that the predominant types of ARGs carried by temperate phages in a typical landscape lake, which is fully replenished by reclaimed water, were related to multidrug resistance and β-lactam antibiotics. 
+Check out the paper at <a href="https://www.sciencedirect.com/science/article/pii/S004313542301299X?casa_token=kYNFJ-jx3PoAAAAA:oXL0EaaLUkTYUSItiV5B5SPJkzh26M9HXh15OUBx_r1Dvd2oggbQveOC-Zqbj2TyIO02zR_56no">Identifying ARG-carrying bacteriophages in a lake replenished by reclaimed water using deep learning techniques.</a></p>
+    </td>   
+  </tr>  
+  </table> 
+       
        <table>
     <tr>
     <td>
