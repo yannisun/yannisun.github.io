@@ -2,23 +2,27 @@
 ### JOURNAL PAPERS
 #### 2023
 
-- Guan, Jiaojiao, Cheng Peng, Jiayu Shang, Xubo Tang, and Yanni Sun. "PhaGenus: genus-level classification of bacteriophages using a Transformer model." Briefings in Bioinformatics 24, no. 6 (2023): bbad408. <a href="https://academic.oup.com/bib/article/24/6/bbad408/7420494?login=true">PhaGenus: genus-level classification of bacteriophages using a Transformer model.</a>
+- Jiaojiao Guan, Cheng Peng, Jiayu Shang, Xubo Tang, and Yanni Sun. "PhaGenus: genus-level classification of bacteriophages using a Transformer model." Briefings in Bioinformatics 24, no. 6 (2023): bbad408. <a href="https://academic.oup.com/bib/article/24/6/bbad408/7420494?login=true">PhaGenus: genus-level classification of bacteriophages using a Transformer model.</a>
 
-- Wang, Donglin, Jiayu Shang, Hui Lin, Jinsong Liang, Chenchen Wang, Yanni Sun, Yaohui Bai, and Jiuhui Qu. "Identifying ARG-carrying bacteriophages in a lake replenished by reclaimed water using deep learning techniques." Water Research (2023): 120859. <a href="https://www.sciencedirect.com/science/article/pii/S004313542301299X?casa_token=kYNFJ-jx3PoAAAAA:oXL0EaaLUkTYUSItiV5B5SPJkzh26M9HXh15OUBx_r1Dvd2oggbQveOC-Zqbj2TyIO02zR_56no">Identifying ARG-carrying bacteriophages in a lake replenished by reclaimed water using deep learning techniques.</a>
+- Donglin Wang, Jiayu Shang, Hui Lin, Jinsong Liang, Chenchen Wang, Yanni Sun, Yaohui Bai, and Jiuhui Qu. "Identifying ARG-carrying bacteriophages in a lake replenished by reclaimed water using deep learning techniques." Water Research (2023): 120859. <a href="https://www.sciencedirect.com/science/article/pii/S004313542301299X?casa_token=kYNFJ-jx3PoAAAAA:oXL0EaaLUkTYUSItiV5B5SPJkzh26M9HXh15OUBx_r1Dvd2oggbQveOC-Zqbj2TyIO02zR_56no">Identifying ARG-carrying bacteriophages in a lake replenished by reclaimed water using deep learning techniques.</a>
   
-- Shang, Jiayu, Cheng Peng, Xubo Tang, and Yanni Sun. "PhaVIP: Phage VIrion Protein classification based on chaos game representation and Vision Transformer." Bioinformatics, Volume 39, June 2023, Pages i30–i39. <a href="https://doi.org/10.1093/bioinformatics/btad229">PhaVIP: Phage VIrion Protein classification based on chaos game representation and Vision Transformer.</a>
+- Jiayu Shang, Cheng Peng, Xubo Tang, and Yanni Sun. "PhaVIP: Phage VIrion Protein classification based on chaos game representation and Vision Transformer." Bioinformatics, Volume 39, June 2023, Pages i30–i39. <a href="https://doi.org/10.1093/bioinformatics/btad229">PhaVIP: Phage VIrion Protein classification based on chaos game representation and Vision Transformer.</a>
+
+- Jiayu Shang, Cheng Peng, Herui Liao, Xubo Tang, and Yanni Sun. "PhaBOX: A web server for identifying and characterizing phage contigs in metagenomic data." Bioinformatics Advances, Volume 3, Issue 1, 2023, vbad101 (2023). <a href="https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad101/7235573?login=true>PhaBOX: A web server for identifying and characterizing phage contigs in metagenomic data</a>
   
 - Liao, H., Ji, Y. & Sun, Y. High-resolution strain-level microbiome composition analysis from short reads. Microbiome 11, 183 (2023). https://doi.org/10.1186/s40168-023-01615-w
   
-- Yu, Runzhou, Abdullah, Syed Muhammad Umer, and Yanni Sun. "HMMPolish: a coding region polishing tool for TGS-sequenced RNA viruses." Briefings in bioinformatics bbad264. 21 July, 2023. <a href="https://doi.org/10.1093/bib/bbad264">HMMPolish: a coding region polishing tool for TGS-sequenced RNA viruses.</a>
-
-- Tang, Xubo, Jiayu Shang, Yongxin Ji, and Yanni Sun. "PLASMe: a tool to identify PLASMid contigs from short-read assemblies using transformer." Nucleic Acids Research (2023): gkad578. <a href="https://doi.org/10.1093/nar/gkad578">PLASMe: a tool to identify PLASMid contigs from short-read assemblies using transformer.</a>
+- Jiayu Shang, Xubo Tang, and Yanni Sun. "PhaTYP: predicting the lifestyle for bacteriophages using BERT." Briefings in Bioinformatics 24, no. 1 (2023): bbac487. <a href="https://academic.oup.com/bib/article/24/1/bbac487/6842869?login=true>PhaTYP: predicting the lifestyle for bacteriophages using BERT. </a>
   
-- Ji, Yongxin, Jiayu Shang, Xubo Tang, and Yanni Sun. "HOTSPOT: hierarchical host prediction for assembled plasmid contigs with transformer." Bioinformatics 39, no. 5 (2023): btad283. <a href="https://academic.oup.com/bioinformatics/article/39/5/btad283/7136643"> HOTSPOT: hierarchical host prediction for assembled plasmid contigs with transformer </a>
+- Runzhou Yu, Abdullah, Syed Muhammad Umer, and Yanni Sun. "HMMPolish: a coding region polishing tool for TGS-sequenced RNA viruses." Briefings in bioinformatics bbad264. 21 July, 2023. <a href="https://doi.org/10.1093/bib/bbad264">HMMPolish: a coding region polishing tool for TGS-sequenced RNA viruses.</a>
 
-- Chen, Guowei, Xubo Tang, Mang Shi, and Yanni Sun. "VirBot: an RNA viral contig detector for metagenomic data." Bioinformatics 39, no. 3 (2023): btad093. <a href="https://academic.oup.com/bioinformatics/article/39/3/btad093/7043093"> VirBot: an RNA viral contig detector for metagenomic data </a>
+- Xubo Tang, Jiayu Shang, Yongxin Ji, and Yanni Sun. "PLASMe: a tool to identify PLASMid contigs from short-read assemblies using transformer." Nucleic Acids Research (2023): gkad578. <a href="https://doi.org/10.1093/nar/gkad578">PLASMe: a tool to identify PLASMid contigs from short-read assemblies using transformer.</a>
+  
+- Yongxin Ji, Jiayu Shang, Xubo Tang, and Yanni Sun. "HOTSPOT: hierarchical host prediction for assembled plasmid contigs with transformer." Bioinformatics 39, no. 5 (2023): btad283. <a href="https://academic.oup.com/bioinformatics/article/39/5/btad283/7136643"> HOTSPOT: hierarchical host prediction for assembled plasmid contigs with transformer </a>
 
-- Yu, Runzhou, Dehan Cai, and Yanni Sun. "AccuVIR: an ACCUrate VIRal genome assembly tool for third-generation sequencing data." Bioinformatics 39, no. 1 (2023): btac827. <a href="https://academic.oup.com/bioinformatics/article/39/1/btac827/6960924"> AccuVIR: an ACCUrate VIRal genome assembly tool for third-generation sequencing data </a>
+- Guowei Chen, Xubo Tang, Mang Shi, and Yanni Sun. "VirBot: an RNA viral contig detector for metagenomic data." Bioinformatics 39, no. 3 (2023): btad093. <a href="https://academic.oup.com/bioinformatics/article/39/3/btad093/7043093"> VirBot: an RNA viral contig detector for metagenomic data </a>
+
+- Runzhou Yu, Dehan Cai, and Yanni Sun. "AccuVIR: an ACCUrate VIRal genome assembly tool for third-generation sequencing data." Bioinformatics 39, no. 1 (2023): btac827. <a href="https://academic.oup.com/bioinformatics/article/39/1/btac827/6960924"> AccuVIR: an ACCUrate VIRal genome assembly tool for third-generation sequencing data </a>
 
 - Jonathan Daniel Ip, Allen Wing-Ho Chu, Wan-Mui Chan, Rhoda Cheuk-Ying Leung, Syed Muhammad Umer Abdullah, **Yanni Sun**, Kelvin Kai-Wang To,
 "Global prevalence of SARS-CoV-2 3CL protease mutations associated with nirmatrelvir or ensitrelvir resistance", eBioMedicine,
