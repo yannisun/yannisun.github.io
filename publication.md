@@ -3,7 +3,7 @@
 #### 2023
 
 - Guan, Jiaojiao, Cheng Peng, Jiayu Shang, Xubo Tang, and Yanni Sun. "PhaGenus: genus-level classification of bacteriophages using a Transformer model." Briefings in Bioinformatics 24, no. 6 (2023): bbad408.
-  
+
 - Wang, Donglin, Jiayu Shang, Hui Lin, Jinsong Liang, Chenchen Wang, Yanni Sun, Yaohui Bai, and Jiuhui Qu. "Identifying ARG-carrying bacteriophages in a lake replenished by reclaimed water using deep learning techniques." Water Research (2023): 120859.
   
 - Shang, Jiayu, Cheng Peng, Xubo Tang, and Yanni Sun. "PhaVIP: Phage VIrion Protein classification based on chaos game representation and Vision Transformer." Bioinformatics, Volume 39, June 2023, Pages i30–i39. <a href="https://doi.org/10.1093/bioinformatics/btad229">PhaVIP: Phage VIrion Protein classification based on chaos game representation and Vision Transformer.</a>
