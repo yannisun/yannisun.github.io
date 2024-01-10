@@ -6,6 +6,15 @@
        <table>
     <tr>
     <td>
+      <h2>Congratulations! Herui and Jiayu's work GDmicro was accepted for publication by Bioinformatics.</h2>
+      <p><b>Dec. 12th, 2023</b></p>
+      <p>With advances in metagenomic sequencing technologies, there are accumulating studies revealing the associations between the human gut microbiome and some human diseases. These associations shed light on using gut microbiome data to distinguish case and control samples of a specific disease, which is also called host disease status classification. However, available tools have not fully addressed two challenges associated with this task: limited labeled microbiome data and decreased accuracy in cross-studies. To address these challenges, we develop a new tool GDmicro, which combines semi-supervised learning and domain adaptation to achieve a more generalized model using limited labeled samples. GDmicro is available at <a href="https://github.com/liaoherui/GDmicro"> GDmicro. Check out the paper at <a href="https://academic.oup.com/bioinformatics/article/39/12/btad747/7470738"> GDmicro: classifying host disease status with GCN and deep adaptation network based on the human gut microbiome data.</p>
+    </td>   
+  </tr>  
+  </table>   
+       <table>
+    <tr>
+    <td>
       <h2>Congratulations! Jiaojiao and Cheng's work PhaGenus was Published on the BIB.</h2>
       <p><b>Nov. 15, 2023</b></p>
       <p>Bacteriophages prey on and replicate within bacterial cells and have a significant role in modulating microbial communities. However, the taxonomic classification of assembled phage contigs still faces several challenges. In this work, we develop a learning-based model named PhaGenus, which conducts genus-level taxonomic classification for phage contigs. PhaGenus utilizes a powerful Transformer model to learn the association between protein clusters and support the classification of up to 508 genera. For more information refer to the paper. <a href="https://academic.oup.com/bib/article/24/6/bbad408/7420494?login=true">PhaGenus: genus-level classification of bacteriophages using a Transformer model.</a></p>
