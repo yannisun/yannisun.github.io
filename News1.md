@@ -6,6 +6,19 @@
        <table>
     <tr>
     <td>
+      <h2>Congratulations! Herui and Runzhou Successfully Defend Their Dissertations!</h2>
+      <p>The thesis title of Herui is "Computational Methods for high-resolution microbial composition analysis and relevant applications". 
+In this thesis, we developed a viral strain identification tool VirStrain, a bacterial strain identification tool StrainScan, and a microbial-based host disease classification method GDmicro. We applied these tools to large-scale real sequencing samples, including pathogen-infected patients, individuals from different countries, colorectal cancer cohorts, etc. The experimental results demonstrate these tools have the potential to enhance our comprehension of microbes and facilitate the development of diagnostic and therapeutic strategies for diseases.
+
+Runzhou's thesis title is "Computational Methods for accurate reconstruction of RNA viral genomes using third-generation sequencing data".
+This thesis presents three main works. The first work introduces AccuVIR, a tool for accurate viral genome assembly and polishing by generating high-quality paths in alignment graphs and then ranking them using multiple criteria. It performs well with both known and novel viruses, as demonstrated through evaluations with simulated and real sequencing data. The second work is HMMPolish, a pipeline designed to refine protein-coding regions of known RNA viruses sequenced using third-generation sequencing. HMMPolish utilizes profile Hidden Markov Models (pHMMs) of viral proteins and has been validated with clinically important virus datasets. The third work reviews commonly used profile HMM databases for viral metagenomic data. It evaluates their model properties using quantitative metrics and assesses their performance with simulated and real metagenomic datasets. The findings provide practical suggestions for optimizing the use of these databases in viral metagenomics research.
+</p>
+    </td>   
+  </tr>  
+  </table>   
+       <table>
+    <tr>
+    <td>
       <h2>Congratulations! Herui and Jiayu's work GDmicro was accepted for publication by Bioinformatics.</h2>
       <p><b>Dec. 12th, 2023</b></p>
       <p>With advances in metagenomic sequencing technologies, there are accumulating studies revealing the associations between the human gut microbiome and some human diseases. These associations shed light on using gut microbiome data to distinguish case and control samples of a specific disease, which is also called host disease status classification. However, available tools have not fully addressed two challenges associated with this task: limited labeled microbiome data and decreased accuracy in cross-studies. To address these challenges, we develop a new tool GDmicro, which combines semi-supervised learning and domain adaptation to achieve a more generalized model using limited labeled samples. GDmicro is available at <a href="https://github.com/liaoherui/GDmicro"> GDmicro </a> Check out the paper at <a href="https://academic.oup.com/bioinformatics/article/39/12/btad747/7470738"> GDmicro: classifying host disease status with GCN and deep adaptation network based on the human gut microbiome data.</a></p>
