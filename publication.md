@@ -2,6 +2,8 @@
 ### JOURNAL PAPERS
 #### 2023
 
+- Herui Liao, Jiayu Shang, and Yanni Sun. "GDmicro: classifying host disease status with GCN and Deep adaptation network based on the human gut microbiome data." Bioinformatics, btad747, 12 Dec. 2023.
+  
 - Jiaojiao Guan, Cheng Peng, Jiayu Shang, Xubo Tang, and Yanni Sun. "PhaGenus: genus-level classification of bacteriophages using a Transformer model." Briefings in Bioinformatics 24, no. 6 (2023): bbad408. <a href="https://academic.oup.com/bib/article/24/6/bbad408/7420494?login=true">PhaGenus: genus-level classification of bacteriophages using a Transformer model.</a>
 
 - Donglin Wang, Jiayu Shang, Hui Lin, Jinsong Liang, Chenchen Wang, Yanni Sun, Yaohui Bai, and Jiuhui Qu. "Identifying ARG-carrying bacteriophages in a lake replenished by reclaimed water using deep learning techniques." Water Research (2023): 120859. <a href="https://www.sciencedirect.com/science/article/pii/S004313542301299X?casa_token=kYNFJ-jx3PoAAAAA:oXL0EaaLUkTYUSItiV5B5SPJkzh26M9HXh15OUBx_r1Dvd2oggbQveOC-Zqbj2TyIO02zR_56no">Identifying ARG-carrying bacteriophages in a lake replenished by reclaimed water using deep learning techniques.</a>
