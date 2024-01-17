@@ -2,7 +2,7 @@
 ### JOURNAL PAPERS
 #### 2023
 
-- Herui Liao, Jiayu Shang, and Yanni Sun. "GDmicro: classifying host disease status with GCN and Deep adaptation network based on the human gut microbiome data." Bioinformatics, btad747, 12 Dec. 2023.
+- Herui Liao, Jiayu Shang, and Yanni Sun. "GDmicro: classifying host disease status with GCN and Deep adaptation network based on the human gut microbiome data." Bioinformatics, btad747, 12 Dec. 2023. <a href="https://academic.oup.com/bioinformatics/article/39/12/btad747/7470738?login=true">GDmicro: classifying host disease status with GCN and deep adaptation network based on the human gut microbiome data.</a>
   
 - Jiaojiao Guan, Cheng Peng, Jiayu Shang, Xubo Tang, and Yanni Sun. "PhaGenus: genus-level classification of bacteriophages using a Transformer model." Briefings in Bioinformatics 24, no. 6 (2023): bbad408. <a href="https://academic.oup.com/bib/article/24/6/bbad408/7420494?login=true">PhaGenus: genus-level classification of bacteriophages using a Transformer model.</a>
 
