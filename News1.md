@@ -17,7 +17,7 @@ Postdoctoral fellows participating in the program will receive professional deve
     <table>
     <tr>
     <td width="100%">
-     <img src="/imgs/herui_mit_offer.jpg"> 
+     <img src="/imgs/herui_mit_offer.png"> 
     </td> 
     </tr>
     </table>  
