@@ -7,7 +7,7 @@
     <tr>
     <td>
     <h2> Congratulations! Herui has been accepted into the MIT-Novo Nordisk AI Postdoc Program.</h2>
-    <p><b>Aug 02, 2023</b></p>
+    <p><b>Feb 9, 2024</b></p>
     <p>The MIT-Novo Nordisk Artificial Intelligence Postdoctoral Fellows Program supports postdoctoral fellows conducting research at the intersection of AI and data science with life sciences. Each year, the program will support a cohort of up to ten postdoctoral fellows for two-year terms.
 Postdoctoral fellows participating in the program will receive professional development opportunities, including entrepreneurship-focused workshops and mentorship from experts in both life science and data science.</p>
     <p> You can visit <a href="https://engineering.mit.edu/admissions/postdoctoral-programs/mit-novo-nordisk-artificial-intelligence-postdoctoral-fellows-program/"> this website </a> for more information. </p>
