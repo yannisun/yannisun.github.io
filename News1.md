@@ -9,7 +9,7 @@
       <h2>Congratulations! Ziyi and Dehan's work on microbial source tracking has been accepted for presentation at ISMB 2024 and will be included in the conference proceedings, which will be published online in the journal Bioinformatics.</h2>
        <p><b>April 11, 2024</b></p>
       <p>This work developed a novel tool called SourceID-NMF for more precise microbial source tracking. SourceID-NMF utilizes a non-negative matrix factorization (NMF) algorithm to trace the microbial sources contributing to a target sample. By leveraging the taxa abundance in both available sources and the target sample, SourceID-NMF estimates the proportion of available sources present in the target sample. A series of benchmarking experiments using simulated and real data were conducted to evaluate the performance of SourceID-NMF. The simulated experiments aimed to mimic realistic yet challenging scenarios, including identifying highly similar sources, irrelevant sources, unknown sources, low abundance sources, and noise sources. The results demonstrate the superior accuracy of SourceID-NMF compared to existing methods. In particular, SourceID-NMF accurately estimated the proportion of irrelevant and unknown sources, while other tools tended to either over- or under-estimate them. Additionally, the noise sources experiment showcased the robustness of SourceID-NMF for microbial source tracking.
-SourceID-NMF is available online at https://github.com/ZiyiHuang0708/SourceID-NMF</p>
+SourceID-NMF is available online at <a href= https://github.com/ZiyiHuang0708/SourceID-NMF> here. </p>
     </td>   
   </tr>  
   </table>   
