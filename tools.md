@@ -7,7 +7,7 @@ PhaGenus is a learning-based model that conducts genus-level taxonomic classific
 
 
 
-#### ViralM (2024) &nbsp; &nbsp; <a href="https://github.com/ChengPENG-wolf/ViraLM"> code </a>
+#### ViralM (2024) &nbsp; &nbsp; <a href="https://github.com/ChengPENG-wolf/ViraLM"> Code </a>
 A Viral Language Model for virus identification from metagenomic data. 
 
 
