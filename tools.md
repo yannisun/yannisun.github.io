@@ -38,5 +38,9 @@ PLASMe is a tool to identify plasmid contigs from short-read assemblies using th
 #### SourceID-NMF (2024)  &nbsp; &nbsp; <a href="https://github.com/ZiyiHuang0708/SourceID-NMF"> <u>Code</u> </a>
 SourceID-NMF is a microbial source tracking tool. It utilizes a non-negative matrix factorization (NMF) algorithm to trace the microbial sources contributing to a target sample. By leveraging taxa abundances in both available sources and the target sample, SourceID-NMF estimates the proportions of these sources present in the target sample.
 
+#### RTTAP &nbsp; &nbsp; <a href="https://github.com/weijiang34/RTTAP"> <u>Code</u> </a>
+
+RTTAP (Read-based Total-infectome Taxonomic Analysis Pipeline) is a fast, accurate, and sensitive pipeline focusing analyses of the totoal-infectome of clinical metatranscriptomic data. It includes multiple useful functions to process and analyze raw sequencing reads: quality control, taxonomy profiling, ARG profiling, and virus strain-level profiling thus providing users comprehensive insights about the microbial composition in clinical samples. It is user friendly and easy-to-use, involving minimum human intervention: all its steps could be finished in a single run. 
+
 
 
