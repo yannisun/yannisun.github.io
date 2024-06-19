@@ -2,6 +2,10 @@
 
 ### Tools for Virus
 
+#### PhaBOX  &nbsp; &nbsp; <a href="https://github.com/KennthShang/PhaBOX"> <u>Code</u> </a> &nbsp; &nbsp; <a href="https://phage.ee.cityu.edu.hk/"> <u>Web server</u> </a> 
+PhaBOX aims to provide one-stop phage identification and analysis. PhaBOX integrates our previously published tools: PhaMer, PhaTYP, PhaGCN, and CHERRY, for phage identification, lifestyle prediction, taxonomy classification, and host prediction, respectively. All these tools combined the strength of the reference-based and the deep learning model to learn different sequence similarity features, including protein organizations, sequence homology, and protein-protein associations.
+
+
 #### RVHaplo (2022)  &nbsp; &nbsp; <a href="https://academic.oup.com/bioinformatics/article/38/8/2127/6528317"> <u>Paper</u> </a>  &nbsp; &nbsp; <a href="https://github.com/dhcai21/RVHaplo"> <u>Code</u> </a>
 RVHaplo is a tool for reconstructing viral haplotypes from long reads. It takes long reads and a reference genome as input and outputs the genome sequences of haplotypes and their abundance in the sample. It has flexible parameters to control haplotype reconstruction and is suitable for reconstructing highly similar haplotypes (e.g., 99.5% identity).
 
