@@ -34,6 +34,10 @@ RdRpBin can identify and classify the RNA virus reads in metagenomic data. It us
 #### PLASMe (2023) &nbsp; &nbsp; <a href="https://doi.org/10.1093/nar/gkad578"> <u>Paper</u> </a>  &nbsp; &nbsp; <a href="https://github.com/HubertTang/PLASMe"> <u>Code</u> </a>
 PLASMe is a tool to identify plasmid contigs from short-read assemblies using the Transformer. PLASMe capitalizes on the strength of alignment and learning-based methods. Closely related plasmids can be easily identified using the alignment component in PLASMe, while diverged plasmids can be predicted using order-specific Transformer models.
 
+#### HOTSPOT (2023) &nbsp; &nbsp; <a href="https://academic.oup.com/bioinformatics/article/39/5/btad283/7136643?login=true"> <u>Paper</u> </a>  &nbsp; &nbsp; <a href="https://github.com/Orin-beep/HOTSPOT"> <u>Code</u> </a>
+
+HOTSPOT is a deep learning tool based on the Transformer model, specifically designed for predicting the hosts of plasmids. You can easily input your plasmid DNA sequences (complete plasmids or contigs) into HOTSPOT to obtain prediction results of the hosts' taxa, ranging from phylum to species level. An early stop mechanism based on Monte Carlo dropout is also implemented to predict high-confidence hosts’ taxa in higher taxonomic levels for broad-host-range plasmids.
+
 ### Other tools
 #### SourceID-NMF (2024)  &nbsp; &nbsp; <a href="https://github.com/ZiyiHuang0708/SourceID-NMF"> <u>Code</u> </a>
 SourceID-NMF is a microbial source tracking tool. It utilizes a non-negative matrix factorization (NMF) algorithm to trace the microbial sources contributing to a target sample. By leveraging taxa abundances in both available sources and the target sample, SourceID-NMF estimates the proportions of these sources present in the target sample.
