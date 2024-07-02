@@ -1,5 +1,9 @@
 ## Publication
 ### JOURNAL PAPERS
+#### 2024
+- Huang, Ziyi, Dehan Cai, and Yanni Sun. "Towards more accurate microbial source tracking via non-negative matrix factorization (NMF)." Bioinformatics 40, no. Supplement_1 (2024): i68-i78.
+<a href="https://academic.oup.com/bioinformatics/article/40/Supplement_1/i68/7700851">Towards more accurate microbial source tracking via non-negative matrix factorization (NMF).</a>
+
 #### 2023
 
 - Herui Liao, Jiayu Shang, and Yanni Sun. "GDmicro: classifying host disease status with GCN and Deep adaptation network based on the human gut microbiome data." Bioinformatics, btad747, 12 Dec. 2023. <a href="https://academic.oup.com/bioinformatics/article/39/12/btad747/7470738?login=true">GDmicro: classifying host disease status with GCN and deep adaptation network based on the human gut microbiome data.</a>
