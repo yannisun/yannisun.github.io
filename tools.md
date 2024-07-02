@@ -3,7 +3,11 @@
 ### Tools for Virus
 
 #### PhaBOX (2023) &nbsp; &nbsp; <a href="https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad101/7235573?login=true"> <u>Paper</u> </a> &nbsp; &nbsp; <a href="https://github.com/KennthShang/PhaBOX"> <u>Code</u> </a> &nbsp; &nbsp; <a href="https://phage.ee.cityu.edu.hk/"> <u>Web server</u> </a> 
-PhaBOX aims to provide one-stop phage identification and analysis. PhaBOX integrates our previously published tools: PhaMer, PhaTYP, PhaGCN, and CHERRY, for phage identification, lifestyle prediction, taxonomy classification, and host prediction, respectively. All these tools combined the strength of the reference-based and the deep learning model to learn different sequence similarity features, including protein organizations, sequence homology, and protein-protein associations.
+PhaBOX aims to provide one-stop phage identification and analysis. PhaBOX integrates our previously published tools, PhaMer, PhaTYP, PhaGCN, and CHERRY, for phage identification, lifestyle prediction, taxonomy classification, and host prediction, respectively. All these tools combined the strength of the reference-based and the deep learning model to learn different sequence similarity features, including protein organizations, sequence homology, and protein-protein associations.
+
+
+#### VirStrain (2022)  &nbsp; &nbsp; <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02609-x"> <u>Paper</u> </a>  &nbsp; &nbsp; <a href="https://github.com/dhcai21/RVHaplo](https://github.com/liaoherui/VirStrain"> <u>Code</u> </a>
+VirStrain is a computational tool for identifying viral strains from short-read sequencing data. It takes a pre-built database and sequencing data as input, and outputs the strains present in the sample, along with their relative abundance and associated metadata. By leveraging a novel feature called "unique k-mer combinations", VirStrain is able to distinguish highly similar viral strains and identify mixed-strain infections.
 
 
 #### RVHaplo (2022)  &nbsp; &nbsp; <a href="https://academic.oup.com/bioinformatics/article/38/8/2127/6528317"> <u>Paper</u> </a>  &nbsp; &nbsp; <a href="https://github.com/dhcai21/RVHaplo"> <u>Code</u> </a>
@@ -37,6 +41,13 @@ PLASMe is a tool to identify plasmid contigs from short-read assemblies using th
 #### HOTSPOT (2023) &nbsp; &nbsp; <a href="https://academic.oup.com/bioinformatics/article/39/5/btad283/7136643?login=true"> <u>Paper</u> </a>  &nbsp; &nbsp; <a href="https://github.com/Orin-beep/HOTSPOT"> <u>Code</u> </a>
 
 HOTSPOT is a deep learning tool based on the Transformer model, specifically designed for predicting the hosts of plasmids. You can easily input your plasmid DNA sequences (complete plasmids or contigs) into HOTSPOT to obtain prediction results of the hosts' taxa, ranging from phylum to species level. An early stop mechanism based on Monte Carlo dropout is also implemented to predict high-confidence hosts’ taxa in higher taxonomic levels for broad-host-range plasmids.
+
+### Tools for Bacteria
+
+#### StrainScan (2023) &nbsp; &nbsp; <a href="https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01615-w"> <u>Paper</u> </a>  &nbsp; &nbsp; <a href="https://github.com/liaoherui/StrainScan"> <u>Code</u> </a>
+
+StrainScan is an efficient, accurate, and high-resolution tool for bacterial strain-level composition analysis. It takes a reference database and sequencing data as input, and outputs a detailed bacterial strain composition report. Compared to other bacterial strain identification methods, StrainScan can efficiently distinguish highly similar co-existing strains by leveraging a tree-based indexing structure and informative k-mers.
+
 
 ### Other tools
 #### SourceID-NMF (2024)  &nbsp; &nbsp; <a href="https://github.com/ZiyiHuang0708/SourceID-NMF"> <u>Code</u> </a>
