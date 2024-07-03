@@ -18,7 +18,7 @@
 
 ---
 
-Yanni Sun is an Associate Professor in the Department of Electrical Engineering at City University of Hong Kong. Before she moved to Hong Kong, she was an Associate Professor in Computer Science and Engineering Department at Michigan State University, USA. She received the B.S. and M.S. degrees from Xi'an JiaoTong University (China), both in Computer Science. She received the Ph.D. degree in Computer Science from Washington University in Saint Louis, USA. Her research field is bioinformatics and computational biology. In particular, her recent research projects include applying deep learning models in biological sequence analysis, next-generation sequencing data analysis, metagenomics, protein domain annotation, plant genomics, and noncoding RNA annotation. She was a recipient of NSF CAREER Award in 2010.
+Yanni Sun is a Professor in the Department of Electrical Engineering at City University of Hong Kong. Before she moved to Hong Kong, she was an Associate Professor in Computer Science and Engineering Department at Michigan State University, USA. She received the B.S. and M.S. degrees from Xi'an JiaoTong University (China), both in Computer Science. She received the Ph.D. degree in Computer Science from Washington University in Saint Louis, USA. Her research field is bioinformatics and computational biology. In particular, her recent research projects include applying deep learning models in biological sequence analysis, next-generation sequencing data analysis, metagenomics, protein domain annotation, plant genomics, and noncoding RNA annotation. She was a recipient of NSF CAREER Award in 2010.
 
 ---
 ## EDUCATION
