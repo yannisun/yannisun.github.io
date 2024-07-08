@@ -1,4 +1,4 @@
-## <a href="https://yannisun.github.io/"> <font size="4">Home</font></a>  /Publication  
+## <a href="https://yannisun.github.io/">Home</a>  / Publication  
 ### JOURNAL PAPERS
 #### 2024
 - Huang, Ziyi, Dehan Cai, and Yanni Sun. "Towards more accurate microbial source tracking via non-negative matrix factorization (NMF)." Bioinformatics 40, no. Supplement_1 (2024): i68-i78.
