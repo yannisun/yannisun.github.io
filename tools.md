@@ -1,7 +1,7 @@
-## Tools  
+## Tools  &nbsp; &nbsp; <a href="https://yannisun.github.io/"> <font size="4">Home Page </font></a> 
 
 
-### Tools for Virus &nbsp; &nbsp; <a href="https://yannisun.github.io/"> <font size="4">Home Page </font></a> 
+### Tools for Virus 
 
 #### PhaBOX (2023) &nbsp; &nbsp; <a href="https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad101/7235573?login=true"> <u>Paper</u> </a> &nbsp; &nbsp; <a href="https://github.com/KennthShang/PhaBOX"> <u>Code</u> </a> &nbsp; &nbsp; <a href="https://phage.ee.cityu.edu.hk/"> <u>Web server</u> </a> 
 PhaBOX aims to provide one-stop phage identification and analysis. PhaBOX integrates our previously published tools, PhaMer, PhaTYP, PhaGCN, and CHERRY, for phage identification, lifestyle prediction, taxonomy classification, and host prediction, respectively. All these tools combined the strength of the reference-based and the deep learning model to learn different sequence similarity features, including protein organizations, sequence homology, and protein-protein associations.
