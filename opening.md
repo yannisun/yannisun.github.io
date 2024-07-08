@@ -1,4 +1,4 @@
-## <a href="https://yannisun.github.io/"> <font size="4">Opening</font></a>  /Publication  
+## <a href="https://yannisun.github.io/">Opening</a>  / Publication  
 
 
 ### Ph.D. students, Research Assistant (RA), and Postdoc or senior RA openings
