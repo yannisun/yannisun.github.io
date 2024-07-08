@@ -1,4 +1,3 @@
-## Publication
 ## <a href="https://yannisun.github.io/"> <font size="4">Home</font></a>  /Publication  
 ### JOURNAL PAPERS
 #### 2024
