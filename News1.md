@@ -1,5 +1,4 @@
-
-## News
+## <a href="https://yannisun.github.io/">Home</a>  / News  
 <div align="center">
        
 <table border="0">
