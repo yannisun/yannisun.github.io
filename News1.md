@@ -14,7 +14,7 @@
 <table>
     <tr>
     <td>
-      <h2>Congratulations to Guowei on his paper "RNAVirHost: A Machine Learning-Based Method for Predicting Hosts of RNA Viruses Through Viral Genomes" on RNA virus-host identification!</h2>
+      <h2>Congratulations to Guowei on his paper "RNAVirHost: A Machine Learning-Based Method for Predicting Hosts of RNA Viruses Through Viral Genomes" on RNA virus-host identification accepted by GigaScience!</h2>
        <p><b>Augest 10, 2024</b></p>
       <p>In collaboration with Dr. Jiang Jinzhe, our initial goal was to identify hosts of ocean viruses, a highly challenging problem due to the diversity and complexity of potential hosts. Guowei excelled in formulating a feasible computational problem for practical host prediction. There remains a significant need for better host prediction solutions. In our discussion section, we have summarized and visualized the major challenges. </p>
     </td>   
