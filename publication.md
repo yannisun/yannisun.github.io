@@ -1,6 +1,9 @@
 ## <a href="https://yannisun.github.io/">Home</a>  / Publication  
 ### JOURNAL PAPERS
 #### 2024
+
+- Yu, Runzhou, Ziyi Huang, Theo YC Lam, and Yanni Sun. "Utilizing profile hidden Markov model databases for discovering viruses from metagenomic data: a comprehensive review." Briefings in Bioinformatics 25, no. 4 (2024). <a href="https://academic.oup.com/bib/article/25/4/bbae292/7696516?login=true">Utilizing profile hidden Markov model databases for discovering viruses from metagenomic data: a comprehensive review.</a>
+
 - Huang, Ziyi, Dehan Cai, and Yanni Sun. "Towards more accurate microbial source tracking via non-negative matrix factorization (NMF)." Bioinformatics 40, no. Supplement_1 (2024): i68-i78.
 <a href="https://academic.oup.com/bioinformatics/article/40/Supplement_1/i68/7700851">Towards more accurate microbial source tracking via non-negative matrix factorization (NMF).</a>
 
