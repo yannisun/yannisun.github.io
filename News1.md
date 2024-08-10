@@ -16,13 +16,17 @@
     <td>
       <h2>Congratulations to Guowei on his paper "RNAVirHost: A Machine Learning-Based Method for Predicting Hosts of RNA Viruses Through Viral Genomes" on RNA virus-host identification!</h2>
        <p><b>Augest 10, 2024</b></p>
-      <p>In collaboration with Dr. Jiang Jinzhe, our initial goal was to identify hosts of ocean viruses, a highly challenging problem due to the diversity and complexity of potential hosts. Guowei excelled in formulating a feasible computational problem for practical host prediction. There remains a significant need for better host prediction solutions. In our discussion section, we have summarized and visualized the major challenges. More information can be found in the paper: “RNAVirHost: A Machine Learning-Based Method for Predicting Hosts of RNA Viruses Through Viral Genomes,” which will appear in GigaScience soon.</p>
+      <p>In collaboration with Dr. Jiang Jinzhe, our initial goal was to identify hosts of ocean viruses, a highly challenging problem due to the diversity and complexity of potential hosts. Guowei excelled in formulating a feasible computational problem for practical host prediction. There remains a significant need for better host prediction solutions. In our discussion section, we have summarized and visualized the major challenges. </p>
     </td>   
   </tr>  
     <tr>
     <td width="100%">
      <img src="/imgs/RNA_virus_host.png"> 
     </td> 
+       <td>
+A visualization illustrating the potential sequencing bias in the reference database, posing a challenge to the prediction of hosts. On the virus genus axis, there are three reference genera represented by colors: yellow for G1, blue for G2, and red for G3. The host group axis consists of three distinct host groups (H1, H2, H3) present in the reference database. The cylinders at the intersections of the dashed lines represent viruses belonging to the respective genera that infect the corresponding host groups. The height of each cylinder indicates the relative number of viruses. G1 is extensively studied, and its hosts are well-documented. G2 and G3 are under-studied, resulting in limited information about their hosts.
+More information can be found in the paper: “RNAVirHost: A Machine Learning-Based Method for Predicting Hosts of RNA Viruses Through Viral Genomes,” which will appear in GigaScience soon.
+       </td>
     </tr>
     </table>
   </table>   
