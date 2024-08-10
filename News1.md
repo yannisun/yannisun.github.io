@@ -2,6 +2,15 @@
 <div align="center">
        
 <table border="0">
+               <table>
+    <tr>
+    <td>
+      <h2>Congratulations to Xubo for his outstanding work in developing a new tool named SegVir for constructing segmented viruses!</h2>
+       <p><b>April 11, 2024</b></p>
+      <p>The article titled “SegVir: Reconstruction of Complete Segmented RNA Viral Genomes from Metatranscriptomes” has been accepted by Molecular Biology and Evolution. Our tool, “SegVir,” can identify viral segments, reconstruct full genomes, and quantify the completeness of segmented viruses. This is a collaborative effort with Prof. Shi Mang, who provided invaluable inspiration and suggestions throughout the project. </p>
+    </td>   
+  </tr>  
+  </table>   
         <table>
     <tr>
     <td>
