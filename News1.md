@@ -19,6 +19,12 @@
       <p>In collaboration with Dr. Jiang Jinzhe, our initial goal was to identify hosts of ocean viruses, a highly challenging problem due to the diversity and complexity of potential hosts. Guowei excelled in formulating a feasible computational problem for practical host prediction. There remains a significant need for better host prediction solutions. In our discussion section, we have summarized and visualized the major challenges. More information can be found in the paper: “RNAVirHost: A Machine Learning-Based Method for Predicting Hosts of RNA Viruses Through Viral Genomes,” which will appear in GigaScience soon.</p>
     </td>   
   </tr>  
+    <tr>
+    <td width="100%">
+     <img src="/imgs/jiayu_2023_IEEE_research_paper.jpg"> 
+    </td> 
+    </tr>
+    </table>
   </table>   
    <table>
     <tr>
