@@ -2,15 +2,33 @@
 <div align="center">
        
 <table border="0">
-               <table>
+ <table>
     <tr>
     <td>
       <h2>Congratulations to Xubo for his outstanding work in developing a new tool named SegVir for constructing segmented viruses!</h2>
-       <p><b>April 11, 2024</b></p>
-      <p>The article titled “SegVir: Reconstruction of Complete Segmented RNA Viral Genomes from Metatranscriptomes” has been accepted by Molecular Biology and Evolution. Our tool, “SegVir,” can identify viral segments, reconstruct full genomes, and quantify the completeness of segmented viruses. This is a collaborative effort with Prof. Shi Mang, who provided invaluable inspiration and suggestions throughout the project. </p>
+       <p><b>Augest 10, 2024</b></p>
+      <p>The article titled “SegVir: Reconstruction of Complete Segmented RNA Viral Genomes from Metatranscriptomes” has been accepted by Molecular Biology and Evolution. Our tool, “SegVir” can identify viral segments, reconstruct full genomes, and quantify the completeness of segmented viruses. This is a collaborative effort with Prof. Shi Mang, who provided invaluable inspiration and suggestions throughout the project. </p>
     </td>   
   </tr>  
   </table>   
+<table>
+    <tr>
+    <td>
+      <h2>Congratulations to Guowei on his paper "RNAVirHost: A Machine Learning-Based Method for Predicting Hosts of RNA Viruses Through Viral Genomes" on RNA virus-host identification!</h2>
+       <p><b>Augest 10, 2024</b></p>
+      <p>In collaboration with Dr. Jiang Jinzhe, our initial goal was to identify hosts of ocean viruses, a highly challenging problem due to the diversity and complexity of potential hosts. Guowei excelled in formulating a feasible computational problem for practical host prediction. There remains a significant need for better host prediction solutions. In our discussion section, we have summarized and visualized the major challenges. More information can be found in the paper: “RNAVirHost: A Machine Learning-Based Method for Predicting Hosts of RNA Viruses Through Viral Genomes,” which will appear in GigaScience soon.</p>
+    </td>   
+  </tr>  
+  </table>   
+   <table>
+    <tr>
+    <td>
+      <h2>Congratulations to Dr. Yu Runzhou and Ziyi on publishing a review of using profile hidden Markov models (pHMMs) for virus discovery in metagenomic data!</h2>
+       <p><b>Augest 10, 2024</b></p>
+      <p>We conducted a thorough comparison and evaluation of multiple pHMM databases, including comprehensive ones like Pfam and virus-specific databases like CheckV. While using pHMM for RNA virus search is generally effective, finding DNA viruses (such as phages) remains challenging with these databases. Some virus-specific models incur a high false positive rate. More information can be found in the paper: “Utilizing Profile HMM Databases for Discovering Viruses from Metagenomic Data: A Comprehensive Review,” available at Briefings in Bioinformatics: https://pubmed.ncbi.nlm.nih.gov/39003531/. </p>
+    </td>   
+  </tr>  
+  </table>  
         <table>
     <tr>
     <td>
