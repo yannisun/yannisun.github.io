@@ -21,7 +21,7 @@
   </tr>  
     <tr>
     <td width="100%">
-     <img src="/imgs/jiayu_2023_IEEE_research_paper.jpg"> 
+     <img src="/imgs/RNA_virus_host.png"> 
     </td> 
     </tr>
     </table>
