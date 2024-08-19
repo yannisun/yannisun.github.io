@@ -1,7 +1,8 @@
 ## <a href="https://yannisun.github.io/">Home</a>  / Publication  
 ### JOURNAL PAPERS
 #### 2024
-
+- Xubo Tang, Jiayu Shang, Guowei Chen, Kei Hang Katie Chan, Mang Shi, Yanni Sun, SegVir: Reconstruction of complete segmented RNA viral genomes from metatranscriptomes, Molecular Biology and Evolution, 2024;, msae171. <a href="https://doi.org/10.1093/molbev/msae171">SegVir: Reconstruction of complete segmented RNA viral genomes from metatranscriptomes</a>
+  
 - Yu, Runzhou, Ziyi Huang, Theo YC Lam, and Yanni Sun. "Utilizing profile hidden Markov model databases for discovering viruses from metagenomic data: a comprehensive review." Briefings in Bioinformatics 25, no. 4 (2024). <a href="https://academic.oup.com/bib/article/25/4/bbae292/7696516?login=true">Utilizing profile hidden Markov model databases for discovering viruses from metagenomic data: a comprehensive review.</a>
 
 - Huang, Ziyi, Dehan Cai, and Yanni Sun. "Towards more accurate microbial source tracking via non-negative matrix factorization (NMF)." Bioinformatics 40, no. Supplement_1 (2024): i68-i78.
