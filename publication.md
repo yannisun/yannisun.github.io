@@ -1,6 +1,8 @@
 ## <a href="https://yannisun.github.io/">Home</a>  / Publication  
 ### JOURNAL PAPERS
 #### 2024
+- Jiayu Shang, Cheng Peng, Yongxin Ji, Jiaojiao Guan, Dehan Cai, Xubo Tang, Yanni Sun "Accurate and efficient protein embedding using multi-teacher distillation learning" Bioinformatics, Volume 40, Issue 9, September 2024, btae567. <a href="https://academic.oup.com/bioinformatics/article/40/9/btae567/7772445?login=true">Accurate and efficient protein embedding using multi-teacher distillation learning </a>
+  
 - Zhang Jing, Jiayu Shang, Beibei Liu, Dong Zhu, Qinfen Li, Li Yin, Okugbe Ebiotubo Ohore et al. "Hot spots of resistance: Transit centers as breeding grounds for airborne ARG-carrying bacteriophages." Journal of Hazardous Materials 480 (2024): 136165. <a href="https://www.sciencedirect.com/science/article/pii/S0304389424027444">Hot spots of resistance: Transit centers as breeding grounds for airborne ARG-carrying bacteriophages. </a>
   
 - Ji Yongxin, Jiayu Shang, Jiaojiao Guan, Wei Zou, Herui Liao, Xubo Tang, and Yanni Sun. "PlasGO: enhancing GO-based function prediction for plasmid-encoded proteins based on genetic structure." GigaScience 13 (2024): giae104. <a href="https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae104/7929491"> PlasGO: enhancing GO-based function prediction for plasmid-encoded proteins based on genetic structure. </a>
