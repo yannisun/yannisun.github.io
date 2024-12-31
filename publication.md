@@ -1,6 +1,12 @@
 ## <a href="https://yannisun.github.io/">Home</a>  / Publication  
 ### JOURNAL PAPERS
 #### 2024
+- Zhang, Jing, Jiayu Shang, Beibei Liu, Dong Zhu, Qinfen Li, Li Yin, Okugbe Ebiotubo Ohore et al. "Hot spots of resistance: Transit centers as breeding grounds for airborne ARG-carrying bacteriophages." Journal of Hazardous Materials 480 (2024): 136165. <a href="https://www.sciencedirect.com/science/article/pii/S0304389424027444">Hot spots of resistance: Transit centers as breeding grounds for airborne ARG-carrying bacteriophages. </a>
+  
+- Ji, Yongxin, Jiayu Shang, Jiaojiao Guan, Wei Zou, Herui Liao, Xubo Tang, and Yanni Sun. "PlasGO: enhancing GO-based function prediction for plasmid-encoded proteins based on genetic structure." GigaScience 13 (2024): giae104. <a href="https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae104/7929491"> PlasGO: enhancing GO-based function prediction for plasmid-encoded proteins based on genetic structure. </a>
+  
+- Peng, Cheng, Jiayu Shang, Jiaojiao Guan, Donglin Wang, and Yanni Sun. "ViraLM: empowering virus discovery through the genome foundation model." Bioinformatics 40, no. 12 (2024): btae704. <a href="https://academic.oup.com/bioinformatics/article/40/12/btae704/7907584">ViraLM: empowering virus discovery through the genome foundation model. </a>
+  
 - Xubo Tang, Jiayu Shang, Guowei Chen, Kei Hang Katie Chan, Mang Shi, Yanni Sun, SegVir: Reconstruction of complete segmented RNA viral genomes from metatranscriptomes, Molecular Biology and Evolution, 2024, msae171. <a href="https://doi.org/10.1093/molbev/msae171">SegVir: Reconstruction of complete segmented RNA viral genomes from metatranscriptomes</a>
   
 - Yu, Runzhou, Ziyi Huang, Theo YC Lam, and Yanni Sun. "Utilizing profile hidden Markov model databases for discovering viruses from metagenomic data: a comprehensive review." Briefings in Bioinformatics 25, no. 4 (2024). <a href="https://academic.oup.com/bib/article/25/4/bbae292/7696516?login=true">Utilizing profile hidden Markov model databases for discovering viruses from metagenomic data: a comprehensive review.</a>
