@@ -17,7 +17,7 @@ Key improvements include:
 <p>4. Enhanced user interface with comprehensive documentation.</p>
 <p>5. Access to intermediate files and datasets.</p>
 <p>6. Local version implementation for large-scale analyses.</p>
-Since its launch, PhaBOX2 has garnered over 500,000 page views and 10,000 submissions, demonstrating its significant impact in virus research. We maintain a network of 300+ researchers who receive regular updates and provide feedback. Many users have acknowledged the utility of our server, reflecting its value to the virus research community.</p>
+<p> Since its launch, PhaBOX2 has garnered over 500,000 page views and 10,000 submissions, demonstrating its significant impact in virus research. We maintain a network of 300+ researchers who receive regular updates and provide feedback. Many users have acknowledged the utility of our server, reflecting its value to the virus research community.</p>
     </td>   
   </tr>  
   </table> 
