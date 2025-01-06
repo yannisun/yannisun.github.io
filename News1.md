@@ -8,15 +8,15 @@
     <td>
       <h2>Congratulations to Jiayu and Cheng for the updating PhaBOX2! </h2>
        <p><b>Augest 10, 2024</b></p>
-      <p>We are excited to present PhaBOX2, a state-of-the-art web server designed for comprehensive virus characterization. PhaBOX2 offers a suite of tools for new virus discovery from metagenomic data, quantification of viral contig contamination, virus host prediction, lifestyle analysis, and taxonomic classification. To the best of our knowledge, PhaBOX2 is among the first web servers to provide such an extensive and user-friendly platform for virus analysis. 
-PhaBOX2 is a significant upgrade to our previously published web server (referred to as PhaBOX hereafter). While the original PhaBOX focused on bacteriophage analysis, PhaBOX2 extends its capabilities to analyze all types of viruses. The server combines alignment-based strategies with state-of-the-art deep learning models, including graph neural networks and large language models, to learn diverse sequence-based features. Notably, all modules have been rigorously validated through peer-reviewed publications, and our research collectively receiving over 400 citations, demonstrating their significant impact in the field. 
+      <p>We are excited to present PhaBOX2, a state-of-the-art web server designed for comprehensive virus characterization. PhaBOX2 offers a suite of tools for new virus discovery from metagenomic data, quantification of viral contig contamination, virus-host prediction, lifestyle analysis, and taxonomic classification. To the best of our knowledge, PhaBOX2 is among the first web servers to provide such an extensive and user-friendly platform for virus analysis. </p.
+       <p> PhaBOX2 is a significant upgrade to our previously published web server (referred to as PhaBOX hereafter). While the original PhaBOX focused on bacteriophage analysis, PhaBOX2 extends its capabilities to analyze all types of viruses. The server combines alignment-based strategies with state-of-the-art deep learning models, including graph neural networks and large language models, to learn diverse sequence-based features. Notably, all modules have been rigorously validated through peer-reviewed publications, and our research collectively received over 400 citations, demonstrating their significant impact in the field. </p>
 Key improvements include:
-- Extension of analysis capabilities from 10 ICTV classes (6,370 phages) to all virus types, (41 classes and 17,908 viruses).
-- New modules for contamination detection, vOTU grouping, marker gene annotation, and phylogenetic analysis
-- Significant hardware upgrade enabling 80% faster processing speed.
-- Enhanced user interface with comprehensive documentation.
-- Access to intermediate files and datasets
-- Local version implementation for large-scale analyses
+<p>1. Extension of analysis capabilities from 10 ICTV classes (6,370 phages) to all virus types, (41 classes and 17,908 viruses).</p>
+<p>2. New modules for contamination detection, vOTU grouping, marker gene annotation, and phylogenetic analysis.</p>
+<p>3. Significant hardware upgrade enabling 80% faster processing speed.</p>
+<p>4. Enhanced user interface with comprehensive documentation.</p>
+<p>5. Access to intermediate files and datasets.</p>
+<p>6.Local version implementation for large-scale analyses.</p>
 Since its launch, PhaBOX2 has garnered over 500,000 page views and 10,000 submissions, demonstrating its significant impact in virus research. We maintain a network of 300+ researchers who receive regular updates and provide feedback. Many users have acknowledged the utility of our server, reflecting its value to the virus research community.</p>
     </td>   
   </tr>  
