@@ -10,6 +10,11 @@
 </div>
 
 ## Graduated Ph.D. students
+
+- Tang, Xubo, Ph.D, 10/2024
+- Yu, Ruizhou, Ph.D, 01/2024
+- Liao, Herui, Ph.D, 01/2024
+- Shang, Jiayu, Ph.D, 10/2023
 - Du, Nan, Ph.D., 12/2019, MSU (Facebook, CA, USA)
 - Chen, Jiao, Ph.D., 12/2018, MSU (Groupon, CA, USA)
 - Techa-Angkoon, Prapaporn, Ph.D. student, 12/2017 (Faculty member of Chiang Mai University, Thailand)
