@@ -3,6 +3,8 @@
 #### 2024
 - Jiayu Shang, Cheng Peng, Yongxin Ji, Jiaojiao Guan, Dehan Cai, Xubo Tang, Yanni Sun "Accurate and efficient protein embedding using multi-teacher distillation learning" Bioinformatics, Volume 40, Issue 9, September 2024, btae567. <a href="https://academic.oup.com/bioinformatics/article/40/9/btae567/7772445?login=true">Accurate and efficient protein embedding using multi-teacher distillation learning. </a>
 
+- Zhu, Yilin, Guowei Chen, and Yanni Sun. "VirTAXA: enhancing RNA virus taxonomic classification with remote homology search and tree-based validation." Bioinformatics 40, no. 10 (2024): btae575. <a href="VirTAXA: enhancing RNA virus taxonomic classification with remote homology search and tree-based validation."> VirTAXA: enhancing RNA virus taxonomic classification with remote homology search and tree-based validation. </a>
+
 - Guowei Chen, Jingzhe Jiang, Yanni Sun, RNAVirHost: a machine learning–based method for predicting hosts of RNA viruses through viral genomes, GigaScience, Volume 13, 2024, giae059.<a href="https://doi.org/10.1093/gigascience/giae059"> RNAVirHost: a machine learning–based method for predicting hosts of RNA viruses through viral genomes. </a>
   
 - Ji Yongxin, Jiayu Shang, Jiaojiao Guan, Wei Zou, Herui Liao, Xubo Tang, and Yanni Sun. "PlasGO: enhancing GO-based function prediction for plasmid-encoded proteins based on genetic structure." GigaScience 13 (2024): giae104. <a href="https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae104/7929491"> PlasGO: enhancing GO-based function prediction for plasmid-encoded proteins based on genetic structure. </a>
