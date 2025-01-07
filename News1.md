@@ -21,6 +21,16 @@ Key improvements include:
     </td>   
   </tr>  
   </table> 
+
+  <table>
+    <tr>
+    <td>
+      <h2>Congratulations! Yongxin’s work on plasmid proteins’ function prediction was accepted for publication by GigaScience. </h2>
+       <p><b>Nov. 27th, 2024</b></p>
+      <p>In this study, we introduce PlasGO, a tool that leverages a hierarchical architecture to predict GO terms for plasmid proteins. PlasGO utilizes a powerful protein language model to learn the local context within protein sentences and a BERT model to capture the global context within plasmid sentences. Additionally, PlasGO allows users to control the precision by incorporating a self-attention confidence weighting mechanism. The experimental results collectively demonstrate that PlasGO has achieved commendable performance. PlasGO significantly expanded the annotations of the plasmid-encoded protein database by assigning high-confidence GO terms to over 95% of previously unannotated proteins, showcasing impressive precision of 0.8229, 0.7941, and 0.8870 for the 3 GO categories, respectively, as measured on the novel protein test set. PlasGO is available at <a href="https://github.com/Orin-beep/PlasGO">HOTSPOT</a> and you can check out the paper <a href="https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae104/7929491">here</a> </p>
+    </td>   
+  </tr>  
+  </table> 
   
 <table>
     <tr>
