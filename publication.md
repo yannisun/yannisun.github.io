@@ -1,6 +1,12 @@
 ## <a href="https://yannisun.github.io/">Home</a>  / Publication  
 ### JOURNAL PAPERS
+
+#### 2025
+
+- Guan, Jiaojiao, Yongxin Ji, Cheng Peng, Wei Zou, Xubo Tang, Jiayu Shang, and Yanni Sun. "GOPhage: protein function annotation for bacteriophages by integrating the genomic context." Briefings in Bioinformatics 26, no. 1 (2025): bbaf014.
+  
 #### 2024
+
 - Jiayu Shang, Cheng Peng, Yongxin Ji, Jiaojiao Guan, Dehan Cai, Xubo Tang, Yanni Sun "Accurate and efficient protein embedding using multi-teacher distillation learning" Bioinformatics, Volume 40, Issue 9, September 2024, btae567. <a href="https://academic.oup.com/bioinformatics/article/40/9/btae567/7772445?login=true">Accurate and efficient protein embedding using multi-teacher distillation learning. </a>
 
 - Zhu, Yilin, Guowei Chen, and Yanni Sun. "VirTAXA: enhancing RNA virus taxonomic classification with remote homology search and tree-based validation." Bioinformatics 40, no. 10 (2024): btae575. <a href="https://academic.oup.com/bioinformatics/article/40/10/btae575/7777163"> VirTAXA: enhancing RNA virus taxonomic classification with remote homology search and tree-based validation. </a>
