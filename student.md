@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="/imgs/group_now.jpg" width="100%">
+      <img src="/imgs/group_20250210.jpg" width="100%">
     </td>
   </tr>
 </table>
