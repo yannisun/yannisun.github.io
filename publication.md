@@ -3,7 +3,7 @@
 
 #### 2025
 
-- Guan, Jiaojiao, Yongxin Ji, Cheng Peng, Wei Zou, Xubo Tang, Jiayu Shang, and Yanni Sun. "GOPhage: protein function annotation for bacteriophages by integrating the genomic context." Briefings in Bioinformatics 26, no. 1 (2025): bbaf014.
+- Guan, Jiaojiao, Yongxin Ji, Cheng Peng, Wei Zou, Xubo Tang, Jiayu Shang, and Yanni Sun. "GOPhage: protein function annotation for bacteriophages by integrating the genomic context." Briefings in Bioinformatics 26, no. 1 (2025): bbaf014. 
   
 #### 2024
 
