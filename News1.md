@@ -7,7 +7,7 @@
     <tr>
     <td>
       <h2>Congratulations to Jiayu and Cheng for the updating PhaBOX2! </h2>
-       <p><b>Nov 10, 2024</b></p>
+       <p><b>Nov. 10, 2024</b></p>
       <p>We are excited to present PhaBOX2, a state-of-the-art web server designed for comprehensive virus characterization. PhaBOX2 offers a suite of tools for new virus discovery from metagenomic data, quantification of viral contig contamination, virus-host prediction, lifestyle analysis, and taxonomic classification. To the best of our knowledge, PhaBOX2 is among the first web servers to provide such an extensive and user-friendly platform for virus analysis. </p>
        <p> PhaBOX2 is a significant upgrade to our previously published web server (referred to as PhaBOX hereafter). While the original PhaBOX focused on bacteriophage analysis, PhaBOX2 extends its capabilities to analyze all types of viruses. The server combines alignment-based strategies with state-of-the-art deep learning models, including graph neural networks and large language models, to learn diverse sequence-based features. Notably, all modules have been rigorously validated through peer-reviewed publications, and our research collectively received over 400 citations, demonstrating their significant impact in the field. </p>
 Key improvements include:
@@ -36,7 +36,7 @@ Key improvements include:
     <tr>
     <td>
       <h2>Congratulations to Jiayu for the publication of "Accurate and efficient protein embedding using multi-teacher distillation learning" on Bioinformatics. </h2>
-       <p><b>Seq 22, 2024</b></p>
+       <p><b>Sep. 22, 2024</b></p>
       <p>We present a novel protein embedding method using multi-teacher distillation learning to address the computational challenges in protein analysis. Traditional protein embedding methods, while effective for tasks like gene ontology and protein structure prediction, often require massive computational resources with millions to billions of parameters. Our approach leverages knowledge from multiple pre-trained protein embedding models to create efficient protein representations. The method demonstrates significant efficiency improvements, reducing computational time by approximately 70% while maintaining accuracy within ±1.5% of state-of-the-art models. This advancement enables more efficient large-scale protein analysis in bioinformatics research.</p>
     </td>   
   </tr>  
@@ -46,7 +46,7 @@ Key improvements include:
     <tr>
     <td>
       <h2>Congratulations to Yilin and GuoWei for the publication of "VirTAXA: enhancing RNA virus taxonomic classification with remote homology search and tree-based validation" on Bioinformatics. </h2>
-       <p><b>Seq 22, 2024</b></p>
+       <p><b>Sep. 22, 2024</b></p>
       <p>We present VirTAXA, a robust classification tool that combines remote homology search and tree-based validation to enhance the genus-level taxonomic classification of RNA viruses. VirTAXA can predict the genus label of an assembled viral contig and provide evidence type for each prediction. It achieves comparable accuracy to state-of-the-art methods while assigning genus labels to a greater number of sequences. Specifically, on the Global Ocean RNA metatranscriptomic data, VirTAXA can assign genus labels for over 10% more contigs than other classification tools. Furthermore, we demonstrated that VirTAXA can be conveniently extended to other types of viruses. VirTAXA takes contigs as input, assigns the genus label, and provides the associated evidence. It can also predict new genera using the phylogenetic tree analysis. More information can be found in the paper "VirTAXA: enhancing RNA virus taxonomic classification with remote homology search and tree-based validation".</p>
     </td>   
   </tr>  
@@ -56,7 +56,7 @@ Key improvements include:
     <tr>
     <td>
       <h2>Congratulations to Xubo for his outstanding work in developing a new tool named SegVir for constructing segmented viruses!</h2>
-       <p><b>Augest 10, 2024</b></p>
+       <p><b>Aug. 10, 2024</b></p>
       <p>The article titled "SegVir: Reconstruction of Complete Segmented RNA Viral Genomes from Metatranscriptomes" has been accepted by Molecular Biology and Evolution. Our tool, "SegVir" can identify viral segments, reconstruct full genomes, and quantify the completeness of segmented viruses. This is a collaborative effort with Prof. Shi Mang, who provided invaluable inspiration and suggestions throughout the project. </p>
     </td>   
   </tr>  
@@ -82,7 +82,7 @@ More information can be found in the paper: “RNAVirHost: A Machine Learning-Ba
     <tr>
     <td>
       <h2>Congratulations to Dr. Yu Runzhou and Ziyi on publishing a review of using profile hidden Markov models (pHMMs) for virus discovery in metagenomic data!</h2>
-       <p><b>Augest 10, 2024</b></p>
+       <p><b>Aug. 10, 2024</b></p>
       <p>We conducted a thorough comparison and evaluation of multiple pHMM databases, including comprehensive ones like Pfam and virus-specific databases like CheckV. While using pHMM for RNA virus search is generally effective, finding DNA viruses (such as phages) remains challenging with these databases. Some virus-specific models incur a high false positive rate. More information can be found in the paper: “Utilizing Profile HMM Databases for Discovering Viruses from Metagenomic Data: A Comprehensive Review,” available at Briefings in Bioinformatics: https://pubmed.ncbi.nlm.nih.gov/39003531/. </p>
     </td>   
   </tr>  
@@ -101,7 +101,7 @@ SourceID-NMF is available online at <a href= https://github.com/ZiyiHuang0708/So
     <tr>
     <td>
     <h2> Congratulations! Herui has been accepted into the MIT-Novo Nordisk AI Postdoc Program.</h2>
-    <p><b>Feb 9, 2024</b></p>
+    <p><b>Feb. 9, 2024</b></p>
     <p>The MIT-Novo Nordisk Artificial Intelligence Postdoctoral Fellows Program supports postdoctoral fellows conducting research at the intersection of AI and data science with life sciences. Each year, the program will support a cohort of up to ten postdoctoral fellows for two-year terms.
 Postdoctoral fellows participating in the program will receive professional development opportunities, including entrepreneurship-focused workshops and mentorship from experts in both life science and data science.</p>
     <p> You can visit <a href="https://engineering.mit.edu/admissions/postdoctoral-programs/mit-novo-nordisk-artificial-intelligence-postdoctoral-fellows-program/"> this website </a> for more information. </p>
@@ -160,7 +160,7 @@ Check out the paper at <a href="https://www.sciencedirect.com/science/article/pi
 <tr>
 <td>
       <h2>Congratulations! Jiayu was the CHAMPION in the competition named “Postgraduate Student Research Paper Competition 2022 – 2023”.</h2>
-       <p><b>Aug 26, 2023</b></p>
+       <p><b>Aug. 26, 2023</b></p>
       <p>The competition is held by IEEE (Hong Kong) Computational Intelligence Chapter. Jaiyu was the CHAMPION for his outstanding academic performance.</p>    
     </td>   
   </tr>
@@ -185,7 +185,7 @@ Check out the paper at <a href="https://www.sciencedirect.com/science/article/pi
     <tr>
     <td>
     <h2> We participated in the ISMB/ECCB 2023 conference!</h2>
-    <p><b>Aug 02, 2023</b></p>
+    <p><b>Aug. 02, 2023</b></p>
     <p>Congratulations! Dr. Sun and four talented Ph.D. students, namely Jiayu Shang, Xubo Tang, Dehan Cai, and Cheng Peng, recently participated in the prestigious ISMB/ECCB 2023 conference from 23rd to 27th July. During the conference, Jiayu Shang delivered an outstanding proceedings presentation titled <b> PhaVIP: Phage VIrion Protein Classification based on chaos game representation and Vision Transformer.</b> Xubo Tang showcased his work on <b> identifying plasmid contigs from metagenomic data using a Transformer </b>, while Dehan Cai presented his report on <b> HaploDMF: viral haplotype reconstruction from long reads via deep matrix factorization.</b> Cheng Peng exhibited the work on <b> PhaBOX: A web server for identifying and characterizing bacteriophage contigs in metagenomic data </b> through a poster presentation.
 Their innovative research work has garnered significant attention from the scientific community. If you are interested in learning more about their work, please refer to the published papers.</p>
     <p> You can visit <a href="https://www.iscb.org/ismbeccb2023-programme/tracks/microbiome"> this website </a> for more information. </p>
@@ -223,7 +223,7 @@ These datasets contain reads with different properties, such as sequencing depth
     <tr>
     <td>
       <h2> Congratulations! Xubo received 2nd Prize for the presentation titled “Identify Plasmid from Metagenomic Data Using Transformer” in the EE Graduate Research Seminar Awards.</h2>
-      <p><b>May. 10, 2023</b></p>
+      <p><b>May 10, 2023</b></p>
     </td>   
   </tr>  
   </table> 
@@ -305,7 +305,7 @@ These datasets contain reads with different properties, such as sequencing depth
     <tr>
     <td>
       <h2> Congratulations! Jiayu, Herui, Xubo, and Dehan received awards!</h2>
-      <p><b>Sep 9, 2022</b></p>
+      <p><b>Sep. 9, 2022</b></p>
       <p> They got the Research Tuition Scholarship ($42,096) and the Outstanding Academic Performance Award ($1,000) for their outstanding academic performance in the 2021-2022 academic year!</p>
     </td>   
   </tr>  
@@ -314,7 +314,7 @@ These datasets contain reads with different properties, such as sequencing depth
     <tr>
     <td>
       <h2> Congratulations! Jiayu's work on identifying phage is published today in Briefings in Bioinformatics!</h2>
-      <p><b>Jun 30, 2022</b></p>
+      <p><b>June 30, 2022</b></p>
       <p><a href="https://doi.org/10.1093/bib/bbac258">Accurate identification of bacteriophages from metagenomic data using Transformer</a></p> 
     </td>   
   </tr>  
