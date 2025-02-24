@@ -2,6 +2,25 @@
 <div align="center">
        
 <table border="0">
+       <table>
+    <tr>
+    <td>
+      <h2>Congratulations! Wei’s work on plasmid multiple host range prediction was published by Bioinformatics </h2>
+       <p><b>Feb. 25, 2025</b></p>
+      <p>We present a new plasmid host range prediction tool called MOSTPLAS. To the best of our knowledge, MOSTPLAS is the first attempt to implement a multi-label learning model to recognize all the possible host genera of input plasmid sequences. To mitigate the limitation of lacking databases with complete annotations of broad-host-range plasmids for the training of learning models, we design a plasmid-encoded protein-based pseudo-label generation algorithm and a self-correction asymmetric loss in MOSTPLAS. On the multi-host RefSeq plasmid test set, when all the tools achieved a precision higher than 80%, the recall and F1-score of MOSTPLAS improved by 5.7% and 5.0%, comparing with the second-best tool. In the same time, MOSTPLAS saved about 90% running time compared to BLAST (alignment-based tool) and 80% running time comparing to HOTSPOT (learning-based tool). These results demonstrate the effectiveness and high computation efficiency of MOSTPLAS. </p>
+    </td>   
+  </tr>  
+  </table> 
+  
+<table>
+    <tr>
+    <td>
+      <h2>Congratulations! Jiaojiao’s work on phage proteins’ function prediction was published by BIB </h2>
+       <p><b>Jan. 22, 2024</b></p>
+      <p>We propose a new protein function annotation tool for phages by leveraging the modular genomic structure of phage genomes. By employing embeddings from the latest protein foundation models and Transformer to capture contextual information between proteins in phage genomes, GOPhage surpasses state-of-the-art methods in annotating diverged proteins and proteins with uncommon functions by 6.78% and 13.05% improvement, respectively. </p>
+    </td>   
+  </tr>  
+  </table> 
 
 <table>
     <tr>
