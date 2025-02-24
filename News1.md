@@ -16,8 +16,8 @@
     <tr>
     <td>
       <h2>Congratulations! Jiaojiao’s work on phage proteins’ function prediction was published by BIB </h2>
-       <p><b>Jan. 22, 2024</b></p>
-      <p>We propose a new protein function annotation tool for phages by leveraging the modular genomic structure of phage genomes. By employing embeddings from the latest protein foundation models and Transformer to capture contextual information between proteins in phage genomes, GOPhage surpasses state-of-the-art methods in annotating diverged proteins and proteins with uncommon functions by 6.78% and 13.05% improvement, respectively. </p>
+       <p><b>Jan. 22, 2025</b></p>
+      <p>We propose a new protein function annotation tool for phages by leveraging the modular genomic structure of phage genomes. By employing embeddings from the latest protein foundation models and Transformer to capture contextual information between proteins in phage genomes, GOPhage surpasses state-of-the-art methods in annotating diverged proteins and proteins with uncommon functions by 6.78% and 13.05% improvement, respectively. You can visit the paper <a href="https://academic.oup.com/bib/article/26/1/bbaf014/7966747?login=true>here.</a></p>
     </td>   
   </tr>  
   </table> 
