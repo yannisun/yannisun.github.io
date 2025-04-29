@@ -2,6 +2,16 @@
 <div align="center">
        
 <table border="0">
+   <table>
+    <tr>
+    <td>
+      <h2>Congratulations! Fuchang and jiayu’s work on NCLDV identification from metagenomic data was accepted by ISMB/ECCB 2025</h2>
+       <p><b>Apr. 7, 2025</b></p>
+      <p> Nucleocytoplasmic large DNA viruses (NCLDVs) are notable for their large genomes and extensive gene repertoires. However, identifying NCLDV sequences in metagenomic data remains challenging due to their high genomic diversity, limited reference genomes, and shared regions with other microbes. Existing alignment-based and machine learning methods struggle with achieving optimal trade-offs between sensitivity and precision. In this work, we present GiantHunter, a reinforcement learning-based tool for identifying NCLDVs from metagenomic data. By employing a Monte Carlo tree search strategy, GiantHunter dynamically selects representative non-NCLDV sequences as the negative training data, enabling the model to establish a robust decision boundary. Benchmarking on rigorously designed experiments shows that GiantHunter achieves high precision while maintaining competitive sensitivity, improving the F1-score by 10% and reducing computational cost by 90% compared to the second-best method.</p>
+    </td>   
+  </tr>  
+  </table> 
+  
        <table>
     <tr>
     <td>
