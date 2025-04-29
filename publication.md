@@ -3,6 +3,8 @@
 
 #### 2025
 
+- Zou, Wei, Yongxin Ji, Jiaojiao Guan, and Yanni Sun. "MOSTPLAS: a self-correction multi-label learning model for plasmid host range prediction." Bioinformatics 41, no. 3 (2025): btaf075. <a href="https://academic.oup.com/bioinformatics/article/41/3/btaf075/8019658"> MOSTPLAS: a self-correction multi-label learning model for plasmid host range prediction.</a>
+
 - Guan, Jiaojiao, Yongxin Ji, Cheng Peng, Wei Zou, Xubo Tang, Jiayu Shang, and Yanni Sun. "GOPhage: protein function annotation for bacteriophages by integrating the genomic context." Briefings in Bioinformatics 26, no. 1 (2025): bbaf014. <a href="https://academic.oup.com/bib/article/26/1/bbaf014/7966747"> GOPhage: protein function annotation for bacteriophages by integrating the genomic context.</a>
   
 #### 2024
