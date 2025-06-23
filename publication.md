@@ -3,6 +3,10 @@
 
 #### 2025
 
+- Wen, Caifang, Jiaojiao Guan, Theethawat Uea-Anuwong, Jiayu Shang, Cheng Peng, Xubo Tang, Ioannis Magouras, Yanni Sun, and Fuyong Li. "Dissecting the gut microbial communities and resistomes of wild rats from different ecological areas in Hong Kong." Environmental Research (2025): 122108. <a href="https://www.sciencedirect.com/science/article/pii/S0013935125013593?via%3Dihub"> Dissecting the gut microbial communities and resistomes of wild rats from different ecological areas in Hong Kong.</a>
+
+- Dong, Xiangyu, Xingyi Zhang, Yanni Sun, Lei Chen, Mingxuan Yuan, and Sibo Wang. "SmoothGNN: Smoothing-aware GNN for unsupervised node anomaly detection." In Proceedings of the ACM on Web Conference 2025, pp. 1225-1236. 2025. <a href="https://dl.acm.org/doi/abs/10.1145/3696410.3714615"> SmoothGNN: Smoothing-aware GNN for unsupervised node anomaly detection.</a>
+
 - Zou, Wei, Yongxin Ji, Jiaojiao Guan, and Yanni Sun. "MOSTPLAS: a self-correction multi-label learning model for plasmid host range prediction." Bioinformatics 41, no. 3 (2025): btaf075. <a href="https://academic.oup.com/bioinformatics/article/41/3/btaf075/8019658"> MOSTPLAS: a self-correction multi-label learning model for plasmid host range prediction.</a>
 
 - Guan, Jiaojiao, Yongxin Ji, Cheng Peng, Wei Zou, Xubo Tang, Jiayu Shang, and Yanni Sun. "GOPhage: protein function annotation for bacteriophages by integrating the genomic context." Briefings in Bioinformatics 26, no. 1 (2025): bbaf014. <a href="https://academic.oup.com/bib/article/26/1/bbaf014/7966747"> GOPhage: protein function annotation for bacteriophages by integrating the genomic context.</a>
