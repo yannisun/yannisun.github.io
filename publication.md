@@ -3,7 +3,7 @@
 
 #### 2025
 
-- Wen, Caifang, Jiaojiao Guan, Theethawat Uea-Anuwong, Jiayu Shang, Cheng Peng, Xubo Tang, Ioannis Magouras, Yanni Sun, and Fuyong Li. "Dissecting the gut microbial communities and resistomes of wild rats from different ecological areas in Hong Kong." Environmental Research (2025): 122108. <a href="https://www.sciencedirect.com/science/article/pii/S0013935125013593?via%3Dihub"> Dissecting the gut microbial communities and resistomes of wild rats from different ecological areas in Hong Kong.</a>
+- Wen, Caifang*, Jiaojiao Guan*, Theethawat Uea-Anuwong, Jiayu Shang, Cheng Peng, Xubo Tang, Ioannis Magouras, Yanni Sun, and Fuyong Li. "Dissecting the gut microbial communities and resistomes of wild rats from different ecological areas in Hong Kong." Environmental Research (2025): 122108. <a href="https://www.sciencedirect.com/science/article/pii/S0013935125013593?via%3Dihub"> Dissecting the gut microbial communities and resistomes of wild rats from different ecological areas in Hong Kong.</a>
 
 - Dong, Xiangyu, Xingyi Zhang, Yanni Sun, Lei Chen, Mingxuan Yuan, and Sibo Wang. "SmoothGNN: Smoothing-aware GNN for unsupervised node anomaly detection." In Proceedings of the ACM on Web Conference 2025, pp. 1225-1236. 2025. <a href="https://dl.acm.org/doi/abs/10.1145/3696410.3714615"> SmoothGNN: Smoothing-aware GNN for unsupervised node anomaly detection.</a>
 
@@ -34,7 +34,7 @@
 
 - Herui Liao, Jiayu Shang, and Yanni Sun. "GDmicro: classifying host disease status with GCN and Deep adaptation network based on the human gut microbiome data." Bioinformatics, btad747, 12 Dec. 2023. <a href="https://academic.oup.com/bioinformatics/article/39/12/btad747/7470738?login=true">GDmicro: classifying host disease status with GCN and deep adaptation network based on the human gut microbiome data.</a>
   
-- Jiaojiao Guan, Cheng Peng, Jiayu Shang, Xubo Tang, and Yanni Sun. "PhaGenus: genus-level classification of bacteriophages using a Transformer model." Briefings in Bioinformatics 24, no. 6 (2023): bbad408. <a href="https://academic.oup.com/bib/article/24/6/bbad408/7420494?login=true">PhaGenus: genus-level classification of bacteriophages using a Transformer model.</a>
+- Jiaojiao Guan*, Cheng Peng*, Jiayu Shang, Xubo Tang, and Yanni Sun. "PhaGenus: genus-level classification of bacteriophages using a Transformer model." Briefings in Bioinformatics 24, no. 6 (2023): bbad408. <a href="https://academic.oup.com/bib/article/24/6/bbad408/7420494?login=true">PhaGenus: genus-level classification of bacteriophages using a Transformer model.</a>
 
 - Donglin Wang, Jiayu Shang, Hui Lin, Jinsong Liang, Chenchen Wang, Yanni Sun, Yaohui Bai, and Jiuhui Qu. "Identifying ARG-carrying bacteriophages in a lake replenished by reclaimed water using deep learning techniques." Water Research (2023): 120859. <a href="https://www.sciencedirect.com/science/article/pii/S004313542301299X?casa_token=kYNFJ-jx3PoAAAAA:oXL0EaaLUkTYUSItiV5B5SPJkzh26M9HXh15OUBx_r1Dvd2oggbQveOC-Zqbj2TyIO02zR_56no">Identifying ARG-carrying bacteriophages in a lake replenished by reclaimed water using deep learning techniques.</a>
   
