@@ -2,6 +2,15 @@
 <div align="center">
        
 <table border="0">
+          <table>
+    <tr>
+    <td>
+      <h2>Congratulations! Caifang and Jiaojiao's work on dissecting the gut microbial communities and resistomes of wild rats from different ecological areas in Hong Kong was published in Environmental Research!</h2>
+       <p><b>June 7, 2025</b></p>
+      <p> Antimicrobial resistance (AMR) is one of the top global public health issues shared across all One Health domains. We trapped 88 live rats, belonging to the species of Rattus norvegicus (n=57), R. tanezumi (n=24), and R. andamanensis (n=7), from city regions, livestock farms, and stables of horse-riding schools (referred to as “suburbs”). We identified 9672 ARGs belonging to 29 ARG types and 554 ARG subtypes. Among them, aminoglycosides, macrolide-lincosamide-streptogramin and chloramphenicol, known to be predominant in livestock gut resistome or manure compost were significantly more abundant in rats from livestock farms. Moreover, some ARGs with high-risk levels, including tetM, tetL, floR, mecR1 and lnuA, as well as plasmid-borne ARGs were significantly more abundant in rats from livestock farms than from city regions or suburbs. Furthermore, zoonotic antimicrobial-resistant bacteria (ARB) were detected, including but not limited to, prioritized antimicrobial-resistant Klebsiella pneumoniae, Proteus mirabilis, Escherichia coli, Enterococcus faecium, Acinetobacter baumannii, Campylobacter jejuni, and Staphylococcus aureus. Notably, resistant zoonotic bacteria of Streptococcus suis, Campylobacter coli, and Campylobacter jejuni were more abundant in wild rats from livestock farms. Our findings provides insights into the gut resistomes and zoonotic bacteria in wild rats in Hong Kong, highlighting the potential role of wild rats in the dissemination of ARGs and zoonotic pathogens, especially for those from agricultural settings.</p>
+    </td>   
+  </tr>  
+  </table> 
    <table>
     <tr>
     <td>
