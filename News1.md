@@ -7,7 +7,7 @@
     <td>
       <h2>USTC Professors and Students Visit for Academic Discussion!</h2>
        <p><b>Dec. 4, 2025</b></p>
-      <p>We were delighted to host Prof. Hua Zhengshuang, Prof. Cai, Prof. Meng, and their students from the University of Science and Technology of China (USTC) on Thursday! The visit included engaging discussions about archaea, and we extend our heartfelt thanks to Prof. Hua for the inspiring talk. It was a pleasure to connect and share ideas—looking forward to future collaborations!</p></td> </tr>
+      <p>We were delighted to host Prof. Hua Zhengshuang, Prof. Cai, Prof. Mu, and their students from the University of Science and Technology of China (USTC) on Thursday! The visit included engaging discussions about archaea, and we extend our heartfelt thanks to Prof. Hua for the inspiring talk. It was a pleasure to connect and share ideas—looking forward to future collaborations!</p></td> </tr>
               <tr>
        <td width="100%">
      <img src="/imgs/visit_USTC.JPG"> 
