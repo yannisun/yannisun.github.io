@@ -2,6 +2,15 @@
 <div align="center">
        
 <table border="0">
+       <table>
+    <tr>
+    <td>
+      <h2>Congratulations to Jiayu! Phage-Host Interaction Work was Published in Briefings in Bioinformatics！</h2>
+       <p><b>Sep. 1, 2025</b></p>
+      <p> We are excited to share that Jiayu's work on phage-host interactions has been published in Briefings in Bioinformatics! This study provides a systematic review and benchmark of 27 virus-host prediction tools. By introducing two benchmark datasets—RefSeq-VHDB and MetaHiC-VHDB—the work offers valuable insights into tool performance in distinct scenarios. Congratulations to Jiayu on this important achievement! <a href="https://academic.oup.com/bib/article/26/6/bbaf626/8341158> From genomic signals to prediction tools: a critical feature analysis and rigorous benchmark for phage–host prediction</a></p>
+    </td>   
+  </tr>  
+  </table> 
          <table>
     <tr>
     <td>
