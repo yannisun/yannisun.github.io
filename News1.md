@@ -2,6 +2,24 @@
 <div align="center">
        
 <table border="0">
+         <table>
+    <tr>
+    <td>
+      <h2>Welcome our new joint Ph.D. student, Li Zewei, from the University of Science and Technology of China！</h2>
+       <p><b>Sep. 1, 2025</b></p>
+      <p> Zewei Li is a second-year PhD student, under the joint supervision of Professor Yanni Sun and Professor Zhengshuang Hua (USTC). His research focuses on the ecology and evolution of extremophiles.</p>
+    </td>   
+  </tr>  
+  </table> 
+                 <table>
+    <tr>
+    <td>
+      <h2>We warmly welcome our new Ph.D. students, Shen Yang and Lu Yi!</h2>
+       <p><b>Sep. 1, 2025</b></p>
+      <p> We are excited to welcome our new Ph.D. students, Shen Yang and Lu Yi, to the team! Their research interests bring fresh perspectives and expertise that will enrich our ongoing projects. We look forward to their contributions and wish them great success in their academic journey with us!</p>
+    </td>   
+  </tr>  
+  </table> 
           <table>
     <tr>
     <td>
