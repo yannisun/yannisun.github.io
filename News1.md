@@ -5,7 +5,7 @@
          <table>
     <tr>
     <td>
-      <h2>Welcome our new joint Ph.D. student, Li Zewei, from the University of Science and Technology of China！</h2>
+      <h2>Welcome our new joint Ph.D. student, zewei Li, from the University of Science and Technology of China！</h2>
        <p><b>Sep. 1, 2025</b></p>
       <p> Zewei Li is a second-year PhD student, under the joint supervision of Professor Yanni Sun and Professor Zhengshuang Hua (USTC). His research focuses on the ecology and evolution of extremophiles.</p>
     </td>   
