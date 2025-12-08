@@ -5,6 +5,16 @@
        <table>
     <tr>
     <td>
+      <h2>USTC Professors and Students Visit for Academic Discussion!</h2>
+       <p><b>Dec. 4, 2025</b></p>
+      <p>We were delighted to host Prof. Hua Zhengshuang, Prof. Cai, Prof. Meng, and their students from the University of Science and Technology of China (USTC) on Thursday! The visit included engaging discussions about archaea, and we extend our heartfelt thanks to Prof. Hua for the inspiring talk. It was a pleasure to connect and share ideas—looking forward to future collaborations!</p>
+    </td>   
+  </tr>  
+  </table> 
+         <table>
+       <table>
+    <tr>
+    <td>
       <h2>Congratulations to Jiayu! Phage-Host Interaction Work was Published in Briefings in Bioinformatics！</h2>
        <p><b>Nov. 24, 2025</b></p>
       <p> We are excited to share that Jiayu's work on phage-host interactions has been published in Briefings in Bioinformatics! This study provides a systematic review and benchmark of 27 virus-host prediction tools. By introducing two benchmark datasets—RefSeq-VHDB and MetaHiC-VHDB—the work offers valuable insights into tool performance in distinct scenarios. Congratulations to Jiayu on this important achievement! You can visit <a href="https://academic.oup.com/bib/article/26/6/bbaf626/8341158">here</a> for more information.</p>
