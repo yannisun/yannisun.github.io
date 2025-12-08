@@ -10,7 +10,7 @@
       <p>We were delighted to host Prof. Hua Zhengshuang, Prof. Cai, Prof. Meng, and their students from the University of Science and Technology of China (USTC) on Thursday! The visit included engaging discussions about archaea, and we extend our heartfelt thanks to Prof. Hua for the inspiring talk. It was a pleasure to connect and share ideas—looking forward to future collaborations!</p></td> </tr>
               <tr>
        <td width="100%">
-     <img src="/imgs/RNA_virus_host.png"> 
+     <img src="/imgs/visit_USTC.png"> 
   </td>  </tr>
   </table> 
          <table>
