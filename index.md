@@ -78,12 +78,12 @@ Yanni Sun is a Professor in the Department of Electrical Engineering at City Uni
 <table border="0">
   <tr>
     <td width="100%">
-      <img src="/imgs/phabox1.png" width="80%">
+      <img src="/imgs/phabox1.png" width="100%">
     </td>
   </tr>
   <tr>
      <td width="100%">
-      <img src="/imgs/phabox2.png" width="80%">
+      <img src="/imgs/phabox2.png" width="100%">
     </td>
   </tr>
 </table>
