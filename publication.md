@@ -3,7 +3,7 @@
 
 
 #### 2026
-- Ji, Yongxin, Jiaojiao Guan, Herui Liao, Jiayu Shang, and Yanni Sun. "PlasRAG: comprehensive plasmid characterization and retrieval through sequence-text alignment." Genome Biology (2026).
+- Ji, Yongxin, Jiaojiao Guan, Herui Liao, Jiayu Shang, and Yanni Sun. "PlasRAG: comprehensive plasmid characterization and retrieval through sequence-text alignment." Genome Biology (2026). <a href="https://link.springer.com/article/10.1186/s13059-026-03966-7"> PlasRAG: comprehensive plasmid characterization and retrieval through sequence-text alignment.</a>
 
 
 #### 2025
