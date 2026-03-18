@@ -1,6 +1,11 @@
 ## <a href="https://yannisun.github.io/">Home</a>  / Publication  
 ### JOURNAL PAPERS
 
+
+#### 2026
+- Ji, Yongxin, Jiaojiao Guan, Herui Liao, Jiayu Shang, and Yanni Sun. "PlasRAG: comprehensive plasmid characterization and retrieval through sequence-text alignment." Genome Biology (2026).
+
+
 #### 2025
 
 - Wei Jiang, Herui Liao, Mang Shi, Liangjun Chen, and Yanni Sun. "RTTAP: Empowering metatranscriptomic data analysis with a read‐based total‐infectome taxonomic solution." iMetaOmics: e70044.
