@@ -5,6 +5,15 @@
        <table>
     <tr>
     <td>
+      <h2>Congratulations! Dehan's work on viral reassortment identification for segmented viruses has been accepted for publication in Nucleic Acids Research.</h2>
+       <p><b>Mar. 12, 2026</b></p>
+      <p> Segmented viruses, including influenza A viruses, can generate novel strains through reassortment, a process in which genome segments from different strains are exchanged. Because reassortment can lead to important changes in viral properties such as transmission, efficient detection of emerging reassortant strains is essential. In this work, Dehan developed VReassort, a fast and accurate tool that identifies reassortment events from genome sequences using deep learning and phylogenetic tree-derived features. VReassort achieved strong performance on both simulated and real datasets, with F1-scores above 0.8, and analyzed about 1,000 influenza A virus strains in under two minutes, making it more than 100 times faster than benchmark methods. Applications to large-scale influenza A and rotavirus datasets further demonstrated its effectiveness and broad potential. The paper will be available soon at <a href="https://doi.org/10.1093/nar/gkag255">Here</a>, and the tool is available at <a href="https://github.com/dhcai21/VReassort.">GIthub</a></p>
+    </td>   
+  </tr>  
+  </table> 
+       <table>
+    <tr>
+    <td>
       <h2>USTC Professors and Students Visit for Academic Discussion!</h2>
        <p><b>Dec. 4, 2025</b></p>
       <p>We were delighted to host Prof. Hua Zhengshuang, Prof. Cai, Prof. Mu, and their students from the University of Science and Technology of China (USTC) on Thursday! The visit included engaging discussions about archaea, and we extend our heartfelt thanks to Prof. Hua for the inspiring talk. It was a pleasure to connect and share ideas—looking forward to future collaborations!</p></td> </tr>
