@@ -3,6 +3,9 @@
 
 
 #### 2026
+- Shang, Jiayu; Peng, Cheng; Guan, Jiaojiao; Cai, Dehan; Wang, Donglin; Sun, Yanni. "PhaBOX2: an enhanced web server for discovering and analyzing viral contigs in metagenomic data." Accepted in the NAR journal (2026).
+- Shen, Yang, Keming Shi, Chen Yu, Rui Zhang, Yanni Sun, and Jiayu Shang. "PhageMind: Generalized Strain-level Phage Host Range Prediction via Meta-learning." Accepted in the ISMB conference (2026).
+- Cai, Dehan, Jiayu Shang, Cheng Peng, Herui Liao, Mang Shi, and Yanni Sun. "Fast and accurate identification of emerging viral reassortment from genome sequences." Nucleic Acids Research 54, no. 6 (2026): gkag255. <a href="https://academic.oup.com/nar/article/54/6/gkag255/8541505?login=true">VReassort</a>
 - Ji, Yongxin, Jiaojiao Guan, Herui Liao, Jiayu Shang, and Yanni Sun. "PlasRAG: comprehensive plasmid characterization and retrieval through sequence-text alignment." Genome Biology (2026). <a href="https://link.springer.com/article/10.1186/s13059-026-03966-7"> PlasRAG: comprehensive plasmid characterization and retrieval through sequence-text alignment.</a>
 
 
