@@ -25,7 +25,7 @@ We present GiantHost, the first NCLDV host prediction tool with domain adaptatio
        <table>
     <tr>
     <td>
-      <h2>Congratulations! Luyi's work on DNA inversion events detection has been accepted by ECCB.</h2>
+      <h2>Congratulations! Yi's work on DNA inversion events detection has been accepted by ECCB.</h2>
        <p><b>May 28, 2026</b></p>
       <p> Bacterial phase variation enables reversible phenotypic switching and is often mediated by DNA inversion events known as invertons. Although metagenomic sequencing provides a powerful way to study invertons without cultivation, detecting these events remains challenging when sequencing depth is low. In this work, we developed TPMM, a three-component posterior mixture model for probabilistic inverton calling from metagenomic data. TPMM incorporates sequencing depth and read evidence to classify candidates flanked by inverted repeats into noise, low-probability, or high-probability inversion signals. It further assigns posterior probabilities as soft labels and uses cumulative Bayesian False Discovery Rate control to identify reliable invertons. On two real gut metagenomic datasets, TPMM showed strong agreement with PhaseFinder at high depth and recovered substantially more invertons under downsampling, demonstrating improved performance in sparse-data settings. Additional analyses of viral genomes suggest that inversion-mediated regulation may have a broader biological scope. The tool is available at <a href="https://github.com/KennyxxD/TPMM">Github</a></p>
     </td>   
