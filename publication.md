@@ -4,9 +4,9 @@
 
 #### 2026
 
-- Yi Lu, Jiaojiao Guan, Yang Shen, Jiayu Shang and Yanni Sun. "TPMM: Three-component Posterior Mixture Model Enables Robust Inverton Detection in Low-Depth Metagenomes and Suggests Potential Viral Invertons." Accepted for ECCB 2026.
-- Cheng Peng, Jiayu Shang, Jiaojiao Guan, and Yanni Sun. "ViralQC: A Tool for Assessing Completeness and Contamination of Predicted Viral Contigs" Accepted for ECCB 2026.
-- Fuchuan Qu, Guowei Chen, and Yanni Sun. "GiantHost: A Domain-Adaptive and Uncertainty-Aware Framework for Giant Virus Host Prediction". Accepted in the ECCB conference (2026).
+- Yi Lu, Jiaojiao Guan, Yang Shen, Jiayu Shang and Yanni Sun. "TPMM: Three-component Posterior Mixture Model Enables Robust Inverton Detection in Low-Depth Metagenomes and Suggests Potential Viral Invertons." Accepted by ECCB 2026 (acceptance rate: 20%).
+- Cheng Peng, Jiayu Shang, Jiaojiao Guan, and Yanni Sun. "ViralQC: A Tool for Assessing Completeness and Contamination of Predicted Viral Contigs" Accepted by ECCB 2026 (acceptance rate: 20%).
+- Fuchuan Qu, Guowei Chen, and Yanni Sun. "GiantHost: A Domain-Adaptive and Uncertainty-Aware Framework for Giant Virus Host Prediction". Accepted by the ECCB 2026 (acceptance rate: 20%).
 - Shang, Jiayu, Cheng Peng, Jiaojiao Guan, Dehan Cai, Donglin Wang, and Yanni Sun. "PhaBOX2: an enhanced web server for discovering and analyzing viral contigs in metagenomic data." Nucleic Acids Research (2026): gkag382.
 - Shen, Yang, Keming Shi, Chen Yu, Rui Zhang, Yanni Sun, and Jiayu Shang. "PhageMind: Generalized Strain-level Phage Host Range Prediction via Meta-learning." Accepted in the ISMB conference (2026).
 - Cai, Dehan, Jiayu Shang, Cheng Peng, Herui Liao, Mang Shi, and Yanni Sun. "Fast and accurate identification of emerging viral reassortment from genome sequences." Nucleic Acids Research 54, no. 6 (2026): gkag255. <a href="https://academic.oup.com/nar/article/54/6/gkag255/8541505?login=true">VReassort</a>
