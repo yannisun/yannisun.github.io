@@ -5,8 +5,8 @@
         <table>
     <tr>
     <td>
-      <h2>Congratulations! Cheng's work on Assessing Completeness and Contamination of Predicted Viral Contigs has been accepted by ECCB.</h2>
-       <p><b>Mar. 12, 2026</b></p>
+      <h2>Congratulations! Cheng's work on assessing completeness and contamination of predicted viral contigs has been accepted by ECCB.</h2>
+       <p><b>May 28, 2026</b></p>
       <p> Viruses represent the most abundant biological entities on Earth, playing vital roles in diverse ecosystems. Cataloging viruses across various environments is essential for understanding their properties and functions. Metagenomic sequencing has emerged as the most comprehensive method for virus discovery. However, distinguishing viral sequences from the vast background of microbial organisms in metagenomic data remains a significant challenge. Existing tools experience varying degrees of false positive rates due to noise in sequencing and assembly, and the integration of proviruses into microbial genomes. This highlights the urgent need for an accurate and efficient method to evaluate the quality of viral contigs.
 To address these challenges, we introduce ViralQC, a tool designed to assess the quality of viral contigs or bins. ViralQC identifies microbial contamination within putative viral sequences using an ensemble framework powered by DNA and protein foundation models and estimates completeness by analyzing protein organization. We evaluated ViralQC on multiple datasets and compared its performance against the state-of-the-art tool, CheckV. Leveraging both DNA and protein foundation models, ViralQC achieves higher sensitivity on contamination detection for contigs longer than 10 kbp while maintaining comparable accuracy. Additionally, ViralQC delivers more accurate estimation on contigs with completeness>50%. The tool is available at <a href="https://github.com/ChengPENG-wolf/ViralQC">Github</a></p>
     </td>   
@@ -15,8 +15,8 @@ To address these challenges, we introduce ViralQC, a tool designed to assess the
               <table>
     <tr>
     <td>
-      <h2>Congratulations! Fuchuan's work on Giant Virus Host Prediction has been accepted by ECCB.</h2>
-       <p><b>Mar. 12, 2026</b></p>
+      <h2>Congratulations! Fuchuan's work on giant virus host prediction has been accepted by ECCB.</h2>
+       <p><b>May 28, 2026</b></p>
       <p> Nucleocytoplasmic large DNA viruses (NCLDVs) play crucial roles in global ecosystems. Although metagenomics has vastly accelerated the discovery of novel NCLDVs, predicting their hosts from fragmented contigs remains a critical bottleneck, with no dedicated end-to-end computational tools currently available. Addressing this gap requires overcoming three fundamental challenges: the extreme scarcity of labeled reference genomes, the severe domain shift between laboratory isolates and diverse environmental metagenomes, and the inability of traditional deterministic models to quantify prediction uncertainty—a crucial requirement for reliable ecological profiling where novel, divergent viruses are prevalent.
 We present GiantHost, the first NCLDV host prediction tool with domain adaptation and uncertainty awareness. GiantHost employs a dual-tower neural network to integrate dense genome traits and sparse GVOG profiles, allowing better integration of heterogeneous features. To overcome label scarcity and domain shift, we leverage 1,400 environmental viral genomes (GVMAGs) via semi-supervised multi-task learning and Domain Adversarial Neural Networks (DANN), effectively bridging the distributional gap between RefSeq and environmental data. Additionally, GiantHost incorporates Conformal Prediction (CP) to output statistically guaranteed prediction sets rather than overconfident single labels. Evaluated under rigorous genome-level cross-validation, GiantHost demonstrates robust predictive power. Applied to the Tara Ocean dataset, GiantHost successfully captured the vertical stratification of NCLDV hosts—revealing a depth-dependent decline of phytoplankton-infecting viruses and a relative enrichment of Amoebozoa-infecting viruses in the mesopelagic zone. The tool is available at <a href=" https://github.com/FuchuanQu/GiantHost">Github</a></p>
     </td>   
@@ -26,7 +26,7 @@ We present GiantHost, the first NCLDV host prediction tool with domain adaptatio
     <tr>
     <td>
       <h2>Congratulations! Luyi's work on DNA inversion events detection has been accepted by ECCB.</h2>
-       <p><b>Mar. 12, 2026</b></p>
+       <p><b>May 28, 2026</b></p>
       <p> Bacterial phase variation enables reversible phenotypic switching and is often mediated by DNA inversion events known as invertons. Although metagenomic sequencing provides a powerful way to study invertons without cultivation, detecting these events remains challenging when sequencing depth is low. In this work, we developed TPMM, a three-component posterior mixture model for probabilistic inverton calling from metagenomic data. TPMM incorporates sequencing depth and read evidence to classify candidates flanked by inverted repeats into noise, low-probability, or high-probability inversion signals. It further assigns posterior probabilities as soft labels and uses cumulative Bayesian False Discovery Rate control to identify reliable invertons. On two real gut metagenomic datasets, TPMM showed strong agreement with PhaseFinder at high depth and recovered substantially more invertons under downsampling, demonstrating improved performance in sparse-data settings. Additional analyses of viral genomes suggest that inversion-mediated regulation may have a broader biological scope. The tool is available at <a href="https://github.com/KennyxxD/TPMM">Github</a></p>
     </td>   
   </tr>  
